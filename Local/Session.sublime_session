@@ -1,0 +1,571 @@
+{
+	"folder_history":
+	[
+		"/Users/karlhepler/projects/indi15001",
+		"/usr/bin"
+	],
+	"last_version": 3103,
+	"last_window_id": 4,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 556.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 285.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						":W",
+						":w - Save"
+					],
+					[
+						":s",
+						":w - Save"
+					],
+					[
+						"copy",
+						"ANF: Copy Current File"
+					],
+					[
+						"rename",
+						"ANF: Rename File"
+					],
+					[
+						"preferences",
+						"Preferences: Settings - Default"
+					],
+					[
+						"align",
+						"AlignTab: Live Preview Mode"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"user",
+						"Preferences: Key Bindings - User"
+					]
+				],
+				"width": 475.0
+			},
+			"console":
+			{
+				"height": 244.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/PHP Companion.sublime-settings",
+				"/Users/karlhepler/Desktop/test.php",
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/snippets/met.sublime-snippet",
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/snippets/pmet.sublime-snippet",
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/snippets/smet.sublime-snippet",
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/snippets/psmet.sublime-snippet",
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/snippets/imet.sublime-snippet",
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/keymaps/PHP.sublime-keymap",
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 148.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"scope",
+					"10",
+					"keys",
+					"\",\", ",
+					"\"p\", ",
+					"p",
+					"super+1",
+					"bold",
+					"minimap",
+					"numbers",
+					"vintag"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 52.0
+			},
+			"input":
+			{
+				"height": 48.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 76.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 81.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 392.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 911.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/builds/psr2.sublime-build",
+					"settings":
+					{
+						"buffer_size": 86,
+						"line_ending": "Unix",
+						"name": "untitled.sublime-build"
+					}
+				},
+				{
+					"file": "/Users/karlhepler/projects/indi15001/Source/app/Brandmovers/Project/Mailer.php",
+					"settings":
+					{
+						"buffer_size": 16202,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/karlhepler/projects/indi15001/Source/resources/assets/js/admin.js",
+					"settings":
+					{
+						"buffer_size": 5219,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 115.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"markdown",
+						"Set Syntax: MultiMarkdown"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"user",
+						"Preferences: Settings - User"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - User"
+					]
+				],
+				"width": 475.0
+			},
+			"console":
+			{
+				"height": 244.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/karlhepler/projects/indi15001",
+				"/Users/karlhepler/projects/indi15001/Source",
+				"/Users/karlhepler/projects/indi15001/Source/resources",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js"
+			],
+			"file_history":
+			[
+				"/Users/karlhepler/projects/indi15001/Source/app/Brandmovers/Project/Mailer.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/admin.js",
+				"/Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/karlhepler/projects/indi15001/Source/app/Models/Member/Member.php",
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"7",
+					"\",\", ",
+					"\"p\", ",
+					"p",
+					"super+1",
+					"bold",
+					"minimap",
+					"numbers",
+					"vintag"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/karlhepler/projects/indi15001"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/builds/psr2.sublime-build",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 86,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										84,
+										84
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/karlhepler/projects/indi15001/Source/app/Brandmovers/Project/Mailer.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 16202,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1490,
+										1490
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 634.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/karlhepler/projects/indi15001/Source/resources/assets/js/admin.js",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 5219,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										423,
+										423
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 52.0
+			},
+			"input":
+			{
+				"height": 48.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 200.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/builds/psr2.sublime-build",
+			"position": "1 384 245 911 578 0 0 1680 1027 ",
+			"project": "",
+			"replace":
+			{
+				"height": 76.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"project/mailer",
+						"Source/app/Brandmovers/Project/Mailer.php"
+					],
+					[
+						"illumiante/model.php",
+						"Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 81.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 392.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 226.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 4,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

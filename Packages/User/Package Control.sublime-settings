@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AlignTab",
+		"All Autocomplete",
+		"Color Highlighter",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"Laravel Blade Highlighter",
+		"Package Control",
+		"PHP Companion",
+		"PlainTasks",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"SublimeREPL",
+		"Surround",
+		"Theme - Spacegray",
+		"Vintage Surround"
+	]
+}

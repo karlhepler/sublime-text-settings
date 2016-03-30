@@ -1,0 +1,8 @@
+[
+	{"keys": [",", "p", "c"], "command": "insert_php_constructor_property"},
+	{"keys": [",", "p", "i"], "command": "expand_fqcn", "args": {"leading_separator": true}},
+	{"keys": [",", "p", "u"], "command": "find_use"},
+	{"keys": [",", "p", "g"], "command": "goto_definition_scope"},
+	{"keys": [",", "p", "n"], "command": "import_namespace"},
+	{"keys": [",", "p", "I"], "command": "implement"}
+]
