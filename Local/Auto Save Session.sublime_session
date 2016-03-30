@@ -228,10 +228,34 @@
 					}
 				},
 				{
+					"file": "/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 450,
+						"line_ending": "Unix"
+					}
+				},
+				{
 					"file": "/Users/karlhepler/projects/indi15001/Source/app/Brandmovers/Project/Mailer.php",
 					"settings":
 					{
 						"buffer_size": 16202,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/karlhepler/projects/indi15001/Source/app/Models/Member/Member.php",
+					"settings":
+					{
+						"buffer_size": 71570,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 596,
 						"line_ending": "Unix"
 					}
 				},
@@ -252,44 +276,60 @@
 			"command_palette":
 			{
 				"height": 400.0,
-				"last_filter": "node",
+				"last_filter": ":w",
 				"selected_items":
 				[
 					[
-						"node",
-						"SublimeREPL: Node"
-					],
-					[
-						"php",
-						"SublimeREPL: PHP"
-					],
-					[
-						"javascr",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"markdown",
-						"Set Syntax: MultiMarkdown"
+						":w",
+						":w - Save"
 					],
 					[
 						"remove",
 						"Package Control: Remove Package"
 					],
 					[
-						":w",
-						":w - Save"
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"preferences",
+						"Preferences: Settings - User"
+					],
+					[
+						"prefere",
+						"Preferences: Settings - Default"
+					],
+					[
+						"align",
+						"AlignTab: Live Preview Mode"
+					],
+					[
+						"prett",
+						"HTMLPrettify"
+					],
+					[
+						"php",
+						"SublimeREPL: PHP"
+					],
+					[
+						"node",
+						"SublimeREPL: Node"
+					],
+					[
+						"javascr",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"markdown",
+						"Set Syntax: MultiMarkdown"
 					],
 					[
 						"user",
 						"Preferences: Settings - User"
-					],
-					[
-						"key",
-						"Preferences: Key Bindings - User"
 					]
 				],
 				"width": 475.0
@@ -317,24 +357,26 @@
 				"/Users/karlhepler/projects/indi15001/Source",
 				"/Users/karlhepler/projects/indi15001/Source/resources",
 				"/Users/karlhepler/projects/indi15001/Source/resources/assets",
-				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js"
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/officer"
 			],
 			"file_history":
 			[
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/officer/OfficerDashboardController.js",
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 				"/Users/karlhepler/projects/indi15001/Source/app/Brandmovers/Project/Mailer.php",
 				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/admin.js",
 				"/Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
 				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/Users/karlhepler/projects/indi15001/Source/app/Models/Member/Member.php",
-				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
-				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
-				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
-				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings"
 			],
 			"find":
 			{
-				"height": 40.0
+				"height": 57.0
 			},
 			"find_in_files":
 			{
@@ -348,6 +390,11 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"is_registered",
+					"created_at",
+					"reated_a",
+					"underline",
+					"caret",
 					"7",
 					"\",\", ",
 					"\"p\", ",
@@ -380,7 +427,7 @@
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 4,
 					"sheets":
 					[
 						{
@@ -402,17 +449,46 @@
 								],
 								"settings":
 								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/base16-ocean.dark (SL).tmTheme",
 									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
+							"file": "/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 450,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										445,
+										445
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
 							"file": "/Users/karlhepler/projects/indi15001/Source/app/Brandmovers/Project/Mailer.php",
 							"semi_transient": false,
 							"settings":
@@ -424,8 +500,39 @@
 								"selection":
 								[
 									[
-										1490,
-										1490
+										1706,
+										1706
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/base16-ocean.dark (SL).tmTheme",
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1591.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/karlhepler/projects/indi15001/Source/app/Models/Member/Member.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 71570,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5333,
+										5333
 									]
 								],
 								"settings":
@@ -435,16 +542,59 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 4959.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
 							"type": "text"
 						},
 						{
-							"buffer": 2,
+							"buffer": 4,
+							"file": "/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 596,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										591,
+										591
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/base16-ocean.dark (SL).tmTheme",
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"translate_tabs_to_spaces": false,
+									"vintage":
+									{
+										"action": null,
+										"action_count": "",
+										"mode": "mode_normal",
+										"motion": null,
+										"motion_count": "",
+										"must_capture_register_name": false,
+										"partial_sequence": "",
+										"register": "\"",
+										"sequence": "",
+										"xpos": 25
+									}
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
 							"file": "/Users/karlhepler/projects/indi15001/Source/resources/assets/js/admin.js",
-							"semi_transient": true,
+							"semi_transient": false,
 							"settings":
 							{
 								"buffer_size": 5219,
@@ -454,20 +604,21 @@
 								"selection":
 								[
 									[
-										423,
-										423
+										79,
+										79
 									]
 								],
 								"settings":
 								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/base16-ocean.dark (SL).tmTheme",
 									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 8.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 5,
 							"type": "text"
 						}
 					]
@@ -475,7 +626,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 52.0
+				"height": 57.0
 			},
 			"input":
 			{
@@ -517,7 +668,7 @@
 			"project": "",
 			"replace":
 			{
-				"height": 76.0
+				"height": 86.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -526,6 +677,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"member.php",
+						"Source/app/Models/Member/Member.php"
+					],
 					[
 						"project/mailer",
 						"Source/app/Brandmovers/Project/Mailer.php"
@@ -558,11 +713,16 @@
 			"selected_group": 0,
 			"settings":
 			{
+				"_vintageous_reset_during_init": true,
+				"vintage":
+				{
+					"_cmdline_cd": "/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages"
+				}
 			},
 			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
+			"side_bar_visible": false,
 			"side_bar_width": 226.0,
 			"status_bar_visible": true,
 			"template_settings":

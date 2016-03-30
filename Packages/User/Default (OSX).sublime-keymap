@@ -4,5 +4,6 @@
 	{"keys": [",", "p", "u"], "command": "find_use"},
 	{"keys": [",", "p", "g"], "command": "goto_definition_scope"},
 	{"keys": [",", "p", "n"], "command": "import_namespace"},
-	{"keys": [",", "p", "I"], "command": "implement"}
+	{"keys": [",", "p", "I"], "command": "implement"},
+    {"keys": ["super+1"], "command": "toggle_side_bar"}
 ]
