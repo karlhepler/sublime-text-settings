@@ -2,20 +2,161 @@
 	"folder_history":
 	[
 		"/Users/karlhepler/projects/indi15001",
+		"/Users/karlhepler/projects/indi15001/Source",
 		"/usr/bin"
 	],
 	"last_version": 3103,
-	"last_window_id": 5,
+	"last_window_id": 54,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 556.0,
+		"new_window_height": 843.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"expiration",
+						"expiration_date"
+					],
+					[
+						"todate",
+						"toDateTimeString"
+					],
+					[
+						"welcom",
+						"welcomeToYourNewImrgMembership"
+					],
+					[
+						"country",
+						"country_id"
+					],
+					[
+						"match",
+						"matches"
+					],
+					[
+						"member",
+						"membership"
+					],
+					[
+						"gette",
+						"getTemporaryPasswordFromEmail	(Member.php)"
+					],
+					[
+						"Import",
+						"ImportActiveMembersFromCSV	(ImportActiveMembersFromCsv.php)"
+					],
+					[
+						"array_un",
+						"array_unshift"
+					],
+					[
+						"preg_",
+						"preg_grep"
+					],
+					[
+						"calus",
+						"call_user_func_array"
+					],
+					[
+						"toDate",
+						"toDateTimeString	(2014_10_13_205016_add_users_data.php)"
+					],
+					[
+						"dealers",
+						"dealership"
+					],
+					[
+						"DateTime",
+						"date_timestamp_get"
+					],
+					[
+						"dealcon",
+						"dealer_contact_email_address"
+					],
+					[
+						"deale",
+						"dealershipName"
+					],
+					[
+						"choi",
+						"choices"
+					],
+					[
+						"chio",
+						"choices"
+					],
+					[
+						"deal",
+						"dealershipName"
+					],
+					[
+						"array_shi",
+						"array_unshift"
+					],
+					[
+						"Impo",
+						"ImportDealersFromCSV	(ImportDealersFromCSV.php)"
+					],
+					[
+						"set",
+						"setStep"
+					],
+					[
+						"em",
+						"emails"
+					],
+					[
+						"signup",
+						"signup_type"
+					],
+					[
+						"whereEmail",
+						"whereEmailLike	(MembersController.php)"
+					],
+					[
+						"membershiptyp",
+						"membershipTypeId	(registrationController.js)"
+					],
+					[
+						"Has",
+						"HasUser"
+					],
+					[
+						"childTp",
+						"childTypes"
+					],
+					[
+						"rem",
+						"remember_token	(SuperUser.php)"
+					],
+					[
+						"Moderator",
+						"ModeratorContract	(SuperUser.php)"
+					],
+					[
+						"CanRe",
+						"CanResetPasswordContract	(SuperUser.php)"
+					],
+					[
+						"Auth",
+						"AuthenticatableContract"
+					],
+					[
+						"Authen",
+						"AuthenticatableContract	(SuperUser.php)"
+					],
+					[
+						"comm",
+						"command_mode"
+					],
+					[
+						"run_macro",
+						"run_macro_file	(Default (OSX).sublime-keymap)"
+					]
 				]
 			},
 			"build_system_choices":
@@ -25,44 +166,128 @@
 			"command_palette":
 			{
 				"height": 400.0,
-				"last_filter": "node",
+				"last_filter": ":w",
 				"selected_items":
 				[
 					[
-						"node",
-						"SublimeREPL: Node"
+						":w",
+						":w - Save"
+					],
+					[
+						"error",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"rename",
+						"ANF: Rename File"
+					],
+					[
+						"copy",
+						"ANF: Copy Current File"
+					],
+					[
+						"align",
+						"AlignTab: Live Preview Mode"
+					],
+					[
+						":W",
+						":w - Save"
+					],
+					[
+						"prett",
+						"HTMLPrettify"
+					],
+					[
+						"keyb",
+						"Preferences: Key Bindings - User"
 					],
 					[
 						"php",
 						"SublimeREPL: PHP"
 					],
 					[
-						"javascr",
-						"Set Syntax: JavaScript"
+						"prefe",
+						"Preferences: Settings - User"
+					],
+					[
+						"1",
+						"Text Pastry: From 1 To X"
 					],
 					[
 						"install",
 						"Package Control: Install Package"
 					],
 					[
-						"markdown",
-						"Set Syntax: MultiMarkdown"
+						"key",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"ali",
+						"AlignTab: Live Preview Mode"
+					],
+					[
+						":",
+						":w - Save"
+					],
+					[
+						"key ",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"al",
+						"AlignTab: Live Preview Mode"
+					],
+					[
+						"delete",
+						"ANF: Delete Current File"
 					],
 					[
 						"remove",
 						"Package Control: Remove Package"
 					],
 					[
-						":w",
-						":w - Save"
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"listp",
+						"Package Control: List Packages"
+					],
+					[
+						"des",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"dest",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"preferences",
+						"Preferences: Settings - User"
+					],
+					[
+						"prefere",
+						"Preferences: Settings - Default"
+					],
+					[
+						"node",
+						"SublimeREPL: Node"
+					],
+					[
+						"javascr",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"markdown",
+						"Set Syntax: MultiMarkdown"
 					],
 					[
 						"user",
 						"Preferences: Settings - User"
-					],
-					[
-						"key",
-						"Preferences: Key Bindings - User"
 					]
 				],
 				"width": 475.0
@@ -86,27 +311,161 @@
 			},
 			"file_history":
 			[
-				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/config/NodeJS/repl.js",
-				"/Users/karlhepler/projects/indi15001/Source/app/Brandmovers/Project/Mailer.php",
-				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/admin.js",
-				"/Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
-				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/karlhepler/Desktop/emailed_dealers.csv",
+				"/Users/karlhepler/TODOS.todo",
+				"/Users/karlhepler/projects/indi15001/Source/storage/app/imports/active_members.csv",
+				"/Users/karlhepler/projects/indi15001/Source/app/Models/Member/MembershipType.php",
 				"/Users/karlhepler/projects/indi15001/Source/app/Models/Member/Member.php",
-				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
-				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
-				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
-				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+				"/Users/karlhepler/projects/indi15001/Source/app/Console/Commands/ImportActiveMembersFromCsv.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Models/Member/Membership.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Console/Kernel.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2014_10_13_205016_add_users_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Brandmovers/CsvReader.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Console/Commands/ImportDealersFromCSV.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Console/Commands/ImportMembersFromCsv.php",
+				"/Users/karlhepler/projects/indi15001/Source/storage/logs/laravel.log",
+				"/Users/karlhepler/projects/indi15001/Source/app/Http/Controllers/DealersController.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Traits/CanBeOfficer.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Models/Admin.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Models/Dealer/Dealer.php",
+				"/Users/karlhepler/projects/indi15001/Source/storage/app/imports/dealers.csv",
+				"/Users/karlhepler/projects/indi15001/Source/app/Models/Address/Address.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Models/Dealer/Dealership.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Models/Chapter.php",
+				"/Users/karlhepler/projects/indi15001/Source/config/brandmovers/project.json",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_09_24_120355_add_chapters_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_09_22_153717_add_poll_answers_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_09_22_153711_add_poll_questions_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_09_22_153646_add_hedstrom_answers_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_09_22_153639_add_hedstrom_questions_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_09_22_153623_add_personality_answers_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_09_22_153613_add_personality_questions_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_08_24_205034_add_dealers_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_08_24_203043_add_admins_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_08_24_203033_add_dealerships_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_08_24_202752_add_addresses_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/data/addresses.json",
+				"/Users/karlhepler/projects/indi15001/Source/app/Http/Controllers/API/DealershipsController.php",
+				"/Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Collection.php",
+				"/Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/data/dealerships.json",
+				"/Users/karlhepler/projects/indi15001/Source/database/data/emails.json",
+				"/Users/karlhepler/projects/indi15001/Source/database/data/hedstrom_answers.json",
+				"/Users/karlhepler/projects/indi15001/Source/database/data/hedstrom_questions.json",
+				"/Users/karlhepler/projects/indi15001/Source/database/data/patch_levels.json",
+				"/Users/karlhepler/projects/indi15001/Source/database/data/poll_questions.json",
+				"/Users/karlhepler/projects/indi15001/Source/database/factories/ModelFactory.php",
+				"/Users/karlhepler/projects/indi15001/Source/public/assets/tpl/app/layout/modals/polls-login.html",
+				"/Users/karlhepler/projects/indi15001/Source/public/assets/tpl/app/member/modals/refer-a-friend.html",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/local/css/admin.css.map",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/local/css/app.css.map",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/local/js/admin.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/local/js/app.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/local/js/app.js.map",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/local/js/dealer.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/local/js/officer.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/production/js/admin.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/production/js/app.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/production/js/dealer.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/production/js/officer.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/staging/css/app.css.map",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/staging/js/admin.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/staging/js/app.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/staging/js/app.js.map",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/staging/js/dealer.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/staging/js/officer.js",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/app/config/circleR.js",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/app/members/controllers/modals/referAFriendModalController.js",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/app/registration/controllers/registrationAddMotorcycleController.js",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/components/config/httpInterceptor.js",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/components/factories/copyrightFactory.js",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/sass/util/variables.scss",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/templates/app/layout/modals/polls-login.html",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/templates/app/member/modals/refer-a-friend.html",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/auth/member-login.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/auth/password.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/auth/reset.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/admin_created.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/all_of_your_friends_want_you_back.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/badge_acknowledgement.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/be_a_best_friend.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/check_out_whats_happening.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/collect_more_badges.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/dealer_created.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/get_to_know_your_fellow_riders.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/how_are_things_going_so_far.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/its_almost_time_to_renew.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/its_time_to_renew_your_membership.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/last_chance_to_renew.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/lets_keep_a_good_thing_going.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/we_miss_you_already_please_come_back.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/welcome_dealer_pre_launch.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/welcome_to_the_new_imrg.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/welcome_to_your_new_imrg_membership.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/partials/_benefits.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/partials/_first_achievement.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/partials/_logo.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/partials/footer.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/events/detail.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/events/list.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/events/partial/event_links.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/layouts/master.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/local_chapters/list.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/member_dashboard/motorcycles.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/member_dashboard/payment_info.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/member_dashboard/profile.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/member_dashboard/questionnaire.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/member_dashboard/partial/fieldsets/personal_fields.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/pages/about.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/pages/change_region.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/pages/home.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/pages/polls_quizzes.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/registration/account_setup.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/registration/add_your_motorcycle.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/registration/questionnaire.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/registration/partial/account_setup/complete.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/registration/partial/account_setup/step1.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/registration/partial/account_setup/step2.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/registration/partial/add_your_motorcycle/_old_hedstrom.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/registration/partial/add_your_motorcycle/_old_hendee.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/registration/partial/add_your_motorcycle/motorcycle_fields.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/storage/framework/views/1a2d2cb1e57a491dd0b46d88ad9c91a8",
+				"/Users/karlhepler/projects/indi15001/Source/storage/framework/views/1c022dbe05cafb603dea848860bbe0bd",
+				"/Users/karlhepler/projects/indi15001/Source/storage/framework/views/1f2b07255d5afa2ae3d32f2d4840b25e",
+				"/Users/karlhepler/projects/indi15001/Source/storage/framework/views/25b80f639043b8c86d1fcbb36921693a",
+				"/Users/karlhepler/projects/indi15001/Source/storage/framework/views/28e218d1b00304a5dd13eed33735d277",
+				"/Users/karlhepler/projects/indi15001/Source/storage/framework/views/36d06fddeb7ca62dc1b15faa8438ea37",
+				"/Users/karlhepler/projects/indi15001/Source/storage/framework/views/44171a9eae74d060200cc05c013bf969",
+				"/Users/karlhepler/projects/indi15001/Source/storage/framework/views/5a371d184ad65bdeda66facd60ae161d",
+				"/Users/karlhepler/projects/indi15001/Source/storage/framework/views/5a3f5669c8ec09a89a80a00ec1e7cd39",
+				"/Users/karlhepler/projects/indi15001/Source/storage/framework/views/5bed3117d8af743f92c20875e35166c1"
 			],
 			"find":
 			{
-				"height": 40.0
+				"height": 45.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 163.0,
 				"where_history":
 				[
+					"/Users/karlhepler/projects/indi15001/Source/app/Listeners",
+					"<current file>",
+					"",
+					"*.js",
+					"*.php",
+					"",
+					"/Users/karlhepler/projects/indi15001/Source/app/Listeners",
+					"*.php",
+					"*.blade.php",
+					"*.php",
+					"",
+					"/Users/karlhepler/projects/indi15001/Source",
+					"",
+					"<current file>",
+					"Source/tests",
+					"/Users/karlhepler/projects/indi15001/Source/tests",
+					"Source/test"
 				]
 			},
 			"find_state":
@@ -114,6 +473,105 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"memberRegistered",
+					"602-541-0746",
+					"Name",
+					"answer",
+					"question",
+					"answer",
+					"question",
+					"answer",
+					"question",
+					"dealer",
+					"admin",
+					"dealership",
+					"user",
+					"(\"id\":\\s*\\d+,)",
+					"\"id\":\\s*\\d+,",
+					"geocode",
+					"Dealership",
+					"dealership",
+					"public static function",
+					"[2016-04-04 21:19:52] local.ERROR: exception 'ErrorException' with message 'Non-static method App\\Models\\Address\\Address::lookupStateId() should not be called statically' in /Users/karlhepler/projects/indi15001/Source/app/Models/Address/Address.php:141\nStack trace:\n#0 /Users/karlhepler/projects/indi15001/Source/app/Models/Address/Address.php(141): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2048, 'Non-static meth...', '/Users/karlhepl...', 141, Array)\n#1 /Users/karlhepler/projects/indi15001/Source/app/Models/Address/Address.php(141): App\\Models\\Address\\Address::lookupStateId()\n#2 [internal function]: App\\Models\\Address\\Address::App\\Models\\Address\\{closure}(Object(App\\Models\\Address\\Address))\n#3 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php(221): call_user_func_array(Object(Closure), Array)\n#4 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php(164): Illuminate\\Events\\Dispatcher->fire('eloquent.creati...', Object(App\\Models\\Address\\Address), true)\n#5 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(1692): Illuminate\\Events\\Dispatcher->until('eloquent.creati...', Object(App\\Models\\Address\\Address))\n#6 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(1588): Illuminate\\Database\\Eloquent\\Model->fireModelEvent('creating')\n#7 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(1511): Illuminate\\Database\\Eloquent\\Model->performInsert(Object(Illuminate\\Database\\Eloquent\\Builder), Array)\n#8 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(546): Illuminate\\Database\\Eloquent\\Model->save()\n#9 /Users/karlhepler/projects/indi15001/Source/app/Models/Dealer/Dealership.php(108): Illuminate\\Database\\Eloquent\\Model::create(Array)\n#10 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(2831): App\\Models\\Dealer\\Dealership->setAddressAttribute(Array)\n#11 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(422): Illuminate\\Database\\Eloquent\\Model->setAttribute('address', Array)\n#12 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(278): Illuminate\\Database\\Eloquent\\Model->fill(Array)\n#13 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(544): Illuminate\\Database\\Eloquent\\Model->__construct(Array)\n#14 /Users/karlhepler/projects/indi15001/Source/app/Console/Commands/ImportDealersFromCSV.php(80): Illuminate\\Database\\Eloquent\\Model::create(Array)\n#15 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Connection.php(476): App\\Console\\Commands\\ImportDealersFromCSV->App\\Console\\Commands\\{closure}(Object(Illuminate\\Database\\MySqlConnection))\n#16 [internal function]: Illuminate\\Database\\Connection->transaction(Object(Closure))\n#17 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/DatabaseManager.php(296): call_user_func_array(Array, Array)\n#18 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(210): Illuminate\\Database\\DatabaseManager->__call('transaction', Array)\n#19 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(210): Brandmovers\\FancyQuery\\FancyDatabaseManager->transaction(Object(Closure))\n#20 /Users/karlhepler/projects/indi15001/Source/app/Console/Commands/ImportDealersFromCSV.php(85): Illuminate\\Support\\Facades\\Facade::__callStatic('transaction', Array)\n#21 /Users/karlhepler/projects/indi15001/Source/app/Console/Commands/ImportDealersFromCSV.php(85): Illuminate\\Support\\Facades\\DB::transaction(Object(Closure))\n#22 /Users/karlhepler/projects/indi15001/Source/app/Brandmovers/CsvReader.php(57): App\\Console\\Commands\\ImportDealersFromCSV->App\\Console\\Commands\\{closure}(Array)\n#23 /Users/karlhepler/projects/indi15001/Source/app/Console/Commands/ImportDealersFromCSV.php(86): App\\Brandmovers\\CsvReader->eachRow(Object(Closure))\n#24 [internal function]: App\\Console\\Commands\\ImportDealersFromCSV->handle()\n#25 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Container/Container.php(503): call_user_func_array(Array, Array)\n#26 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Console/Command.php(150): Illuminate\\Container\\Container->call(Array)\n#27 /Users/karlhepler/projects/indi15001/Source/vendor/symfony/console/Command/Command.php(259): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))\n#28 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Console/Command.php(136): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))\n#29 /Users/karlhepler/projects/indi15001/Source/vendor/symfony/console/Application.php(878): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))\n#30 /Users/karlhepler/projects/indi15001/Source/vendor/symfony/console/Application.php(195): Symfony\\Component\\Console\\Application->doRunCommand(Object(App\\Console\\Commands\\ImportDealersFromCSV), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))\n#31 /Users/karlhepler/projects/indi15001/Source/vendor/symfony/console/Application.php(126): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))\n#32 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(100): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))\n#33 /Users/karlhepler/projects/indi15001/Source/artisan(36): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))\n#34 {main}  \n",
+					"protected static methods",
+					"possibilities",
+					"Deal",
+					"normalizeDealershipName",
+					"splice",
+					"&#174;",
+					"#174;",
+					"billingCopySrc",
+					"billingcopysrc",
+					"billingCopySrc",
+					"billingcopysrc",
+					"use profile address",
+					"officerAdded",
+					"isset($member)",
+					"$member",
+					"return ",
+					"user",
+					"created",
+					"signup_type",
+					"super_user_id",
+					"email",
+					"child_type",
+					"registrar",
+					"super_id",
+					"setUser",
+					"child_type",
+					"unique_or_officer",
+					"child_type",
+					"membershipTypeId",
+					"{{",
+					"@todo",
+					"address_1",
+					"child_user",
+					"ChildUser",
+					"memberRegistered",
+					"->child(?!\\w)",
+					"->child(?!r)",
+					"->child(?!=r)",
+					"->child",
+					"$user->child",
+					"$user->",
+					"child",
+					"super_users",
+					"SuperUser",
+					"Brandmovers\\SuperUsers\\SuperUser",
+					"\"Brandmovers\\SuperUsers\\SuperUser\"",
+					"Brandmovers\\SuperUsers\\SuperUser",
+					"polaris",
+					"Brandmovers\\SuperUsers\\SuperUser",
+					"Brandmovers\\\\SuperUsers\\\\SuperUser",
+					"Brandmovers\\SuperUsers\\SuperUser",
+					"SuperUser",
+					"This member belongs to another dealership",
+					",\\s*\"child_id\":.*(?=})",
+					",\\s*\"child_id\":.*(?:})",
+					",\\s*\"child_id\":.*}",
+					"SuperUser",
+					"super_user",
+					"super_users",
+					"super_user",
+					"super_users",
+					"ChildUser",
+					"super",
+					"[\"{\",",
+					"polaris",
+					"travel_to_pane",
+					"next_",
+					"getPosts()",
+					"drop",
+					"schema::drop",
+					"{\"",
+					",source.js",
+					"\"p\", ",
+					"40",
+					"is_registered",
+					"created_at",
+					"reated_a",
+					"underline",
+					"caret",
 					"7",
 					"\",\", ",
 					"\"p\", ",
@@ -127,9 +585,24 @@
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": false,
+				"regex": true,
 				"replace_history":
 				[
+					"$1 \"created_at\": \"now()\", \"updated_at\": \"now()\",",
+					"®",
+					"users",
+					"User",
+					"App\\User",
+					"poop",
+					"App\\User",
+					"App\\\\User",
+					"",
+					" App",
+					" App\\User",
+					" App\\\\User",
+					" App\\User",
+					" ",
+					""
 				],
 				"reverse": false,
 				"show_context": true,
@@ -139,7 +612,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 40.0
+				"height": 57.0
 			},
 			"input":
 			{
@@ -157,7 +630,7 @@
 			"pinned_build_system": "Packages/User/builds/psr2.sublime-build",
 			"replace":
 			{
-				"height": 76.0
+				"height": 86.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -166,6 +639,438 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"membercsv",
+						"storage/app/imports/active_members.csv"
+					],
+					[
+						"misc",
+						"app/Listeners/Misc.php"
+					],
+					[
+						"member.php",
+						"app/Models/Member/Member.php"
+					],
+					[
+						"statesjson",
+						"database/data/states.json"
+					],
+					[
+						"membershiptype",
+						"app/Models/Member/MembershipType.php"
+					],
+					[
+						"project",
+						"config/brandmovers/project.json"
+					],
+					[
+						"activemembercsv",
+						"storage/app/imports/active_members.csv"
+					],
+					[
+						"importmember",
+						"app/Console/Commands/ImportActiveMembersFromCsv.php"
+					],
+					[
+						"larave",
+						"storage/logs/laravel.log"
+					],
+					[
+						"membership.php",
+						"app/Models/Member/Membership.php"
+					],
+					[
+						"member",
+						"app/Models/Member/Member.php"
+					],
+					[
+						"csvread",
+						"app/Brandmovers/CsvReader.php"
+					],
+					[
+						"console/ker",
+						"app/Console/Kernel.php"
+					],
+					[
+						"lara",
+						"storage/logs/laravel.log"
+					],
+					[
+						"console/dealer",
+						"app/Console/Commands/ImportDealersFromCSV.php"
+					],
+					[
+						"project.json",
+						"config/brandmovers/project.json"
+					],
+					[
+						"dealerscsv",
+						"storage/app/imports/dealers.csv"
+					],
+					[
+						"address.php",
+						"app/Models/Address/Address.php"
+					],
+					[
+						"chapter.ph",
+						"app/Models/Chapter.php"
+					],
+					[
+						"admin.php",
+						"app/Models/Admin.php"
+					],
+					[
+						"canbeoffic",
+						"app/Traits/CanBeOfficer.php"
+					],
+					[
+						"laravel",
+						"storage/logs/laravel.log"
+					],
+					[
+						"dealer.php",
+						"app/Models/Dealer/Dealer.php"
+					],
+					[
+						"dealershipcontroll",
+						"app/Http/Controllers/API/DealershipsController.php"
+					],
+					[
+						"dealercontroller",
+						"app/Http/Controllers/DealersController.php"
+					],
+					[
+						"dealership.php",
+						"app/Models/Dealer/Dealership.php"
+					],
+					[
+						"address",
+						"app/Models/Address/Address.php"
+					],
+					[
+						"eloquentcolle",
+						"vendor/laravel/framework/src/Illuminate/Database/Eloquent/Collection.php"
+					],
+					[
+						"eloquent/builder",
+						"vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php"
+					],
+					[
+						"registrationbladephp",
+						"resources/views/registration/partial/account_setup/step1.blade.php"
+					],
+					[
+						"registrationjs",
+						"resources/assets/js/app/registration/controllers/registrationController.js"
+					],
+					[
+						"payment",
+						"resources/views/member_dashboard/partial/fieldsets/payment_fields.blade.php"
+					],
+					[
+						"registjs",
+						"resources/assets/js/app/registration/controllers/registrationController.js"
+					],
+					[
+						"partialspay",
+						"resources/views/member_dashboard/partial/fieldsets/payment_fields.blade.php"
+					],
+					[
+						"memberaddedtochapter",
+						"app/Events/MemberAddedToChapter.php"
+					],
+					[
+						"officer.php",
+						"app/Models/Officer.php"
+					],
+					[
+						"misc.php",
+						"app/Listeners/Misc.php"
+					],
+					[
+						"chapter.php",
+						"app/Models/Chapter.php"
+					],
+					[
+						"mailer.php",
+						"app/Brandmovers/Project/Mailer.php"
+					],
+					[
+						"delayedme",
+						"app/Models/DelayedEmail.php"
+					],
+					[
+						"email/footer.blade",
+						"resources/views/emails/partials/footer.blade.php"
+					],
+					[
+						"delayedemailte",
+						"tests/DelayedEmailTest.php"
+					],
+					[
+						"controll",
+						"app/Http/Controllers/Controller.php"
+					],
+					[
+						"master.blad",
+						"resources/views/layouts/master.blade.php"
+					],
+					[
+						"membercontro",
+						"app/Http/Controllers/API/MembersController.php"
+					],
+					[
+						"additionalmem",
+						"tests/AdditionalMemberTypesTest.php"
+					],
+					[
+						"createmembershiptab",
+						"database/migrations/2015_08_10_195817_create_memberships_table.php"
+					],
+					[
+						"hasposto",
+						"app/Traits/HasPostAuthor.php"
+					],
+					[
+						"officerscontroll",
+						"app/Http/Controllers/API/OfficersController.php"
+					],
+					[
+						"hasuser",
+						"app/Traits/HasUser.php"
+					],
+					[
+						"officersave",
+						"resources/assets/templates/admin/officer-save.html"
+					],
+					[
+						"eloquentbuilder",
+						"vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php"
+					],
+					[
+						"model.php",
+						"vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php"
+					],
+					[
+						"memberscontroller",
+						"app/Http/Controllers/API/MembersController.php"
+					],
+					[
+						"routes.php",
+						"app/Http/routes.php"
+					],
+					[
+						"memberscontroller.php",
+						"app/Http/Controllers/API/MembersController.php"
+					],
+					[
+						"layoutmaster",
+						"resources/views/layouts/master.blade.php"
+					],
+					[
+						"navblad",
+						"resources/views/member_dashboard/partial/profile_nav.blade.php"
+					],
+					[
+						"validator",
+						"app/Brandmovers/Project/Validator.php"
+					],
+					[
+						"updatememberreq",
+						"app/Http/Requests/UpdateMemberRequest.php"
+					],
+					[
+						"createmem",
+						"app/Http/Requests/CreateMemberRequest.php"
+					],
+					[
+						"paymentfie",
+						"resources/views/member_dashboard/partial/fieldsets/payment_fields.blade.php"
+					],
+					[
+						"registrationcontroller",
+						"resources/assets/js/app/registration/controllers/registrationController.js"
+					],
+					[
+						"jiratest",
+						"tests/JiraTest.php"
+					],
+					[
+						"dealershipmember",
+						"app/Http/Controllers/API/DealershipMembersController.php"
+					],
+					[
+						"memberdashindex",
+						"resources/views/member_dashboard/index.blade.php"
+					],
+					[
+						"motorcyclefield",
+						"resources/views/registration/partial/add_your_motorcycle/motorcycle_fields.blade.php"
+					],
+					[
+						"addyour",
+						"resources/views/registration/add_your_motorcycle.blade.php"
+					],
+					[
+						"ugcupl",
+						"app/Models/UGC_Upload.php"
+					],
+					[
+						"memberregistered",
+						"app/Events/MemberRegistered.php"
+					],
+					[
+						"step2compl",
+						"app/Http/Middleware/RegistrationStep2Complete.php"
+					],
+					[
+						"member_dashbard/index",
+						"resources/views/member_dashboard/index.blade.php"
+					],
+					[
+						"memberdashboardcon",
+						"app/Http/Controllers/MemberDashboardController.php"
+					],
+					[
+						"adminscontroller",
+						"app/Http/Controllers/AdminsController.php"
+					],
+					[
+						"controller",
+						"app/Http/Controllers/Controller.php"
+					],
+					[
+						"registrationcon",
+						"app/Http/Controllers/RegistrationController.php"
+					],
+					[
+						"config/auth",
+						"Source/config/auth.php"
+					],
+					[
+						"polaris",
+						"Source/vendor/brandmovers/polaris-api-client/src/Brandmovers/PolarisAPI/PolarisAPIServiceProvider.php"
+					],
+					[
+						"validation",
+						"Source/resources/lang/en/validation.php"
+					],
+					[
+						"superuser",
+						"Source/vendor/brandmovers/super-users/src/Brandmovers/SuperUsers/SuperUser.php"
+					],
+					[
+						"app/user",
+						"Source/app/User.php"
+					],
+					[
+						"additiona",
+						"Source/tests/AdditionalMemberTypesTest.php"
+					],
+					[
+						"dea",
+						"Source/app/Models/Dealer/Dealer.php"
+					],
+					[
+						"collection.php",
+						"Source/vendor/laravel/framework/src/Illuminate/Support/Collection.php"
+					],
+					[
+						"contracts/proxy",
+						"Source/vendor/brandmovers/super-users/src/Brandmovers/SuperUsers/Contracts/Proxy.php"
+					],
+					[
+						"canpro",
+						"Source/vendor/brandmovers/super-users/src/Brandmovers/SuperUsers/Traits/CanProxy.php"
+					],
+					[
+						"officer",
+						"Source/app/Models/Officer.php"
+					],
+					[
+						"superuserpro",
+						"Source/vendor/brandmovers/super-users/src/Brandmovers/SuperUsers/SuperUsersServiceProvider.php"
+					],
+					[
+						"superuser.php",
+						"Source/vendor/brandmovers/super-users/src/Brandmovers/SuperUsers/SuperUser.php"
+					],
+					[
+						"userprovider",
+						"Source/app/Providers/UserProvider.php"
+					],
+					[
+						"config/app",
+						"Source/config/app.php"
+					],
+					[
+						"createsuperuser",
+						"Source/database/migrations/2014_10_15_123959_create_super_users_table_and_rels.php"
+					],
+					[
+						"createsuer",
+						"Source/vendor/brandmovers/super-users/src/Brandmovers/SuperUsers/migrations/create_super_users_table_and_rels.stub"
+					],
+					[
+						"config/pol",
+						"Source/vendor/brandmovers/polaris-api-client/src/Brandmovers/PolarisAPI/config/polaris.php"
+					],
+					[
+						"createuserstable",
+						"Source/database/migrations/2016_03_31_162105_create_users_table.php"
+					],
+					[
+						"",
+						".gitignore"
+					],
+					[
+						"user.php",
+						"Source/app/User.php"
+					],
+					[
+						"super",
+						"Source/vendor/brandmovers/super-users/src/Brandmovers/SuperUsers/SuperUser.php"
+					],
+					[
+						"ryanpunchlistemail_10_5_2015test",
+						"Source/tests/RyanPunchListEmail_10_5_2015Test.php"
+					],
+					[
+						"membertest",
+						"Source/tests/MemberTest.php"
+					],
+					[
+						"forum.php",
+						"Source/app/Models/Forum/Forum.php"
+					],
+					[
+						"forumtest",
+						"Source/tests/ForumTest.php"
+					],
+					[
+						"foundation/testing/data",
+						"Source/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseMigrations.php"
+					],
+					[
+						"createdelayedemails",
+						"Source/database/migrations/2016_03_31_145949_create_delayed_emails_table.php"
+					],
+					[
+						"createdelayed",
+						"Source/database/migrations/2016_03_29_134858_CreateDelayedEmailsTable.php"
+					],
+					[
+						"delayeemailtest",
+						"Source/tests/DelayedEmailTest.php"
+					],
+					[
+						"dealeremailtest",
+						"Source/tests/DealerEmailTest.php"
+					],
+					[
+						"auth",
+						"Source/config/auth.php"
+					],
 					[
 						"project/mailer",
 						"Source/app/Brandmovers/Project/Mailer.php"
@@ -198,14 +1103,14 @@
 			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
+			"side_bar_visible": false,
 			"side_bar_width": 226.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 911.0
+		"new_window_width": 1270.0
 	},
 	"windows":
 	[
@@ -214,56 +1119,155 @@
 			{
 				"selected_items":
 				[
+					[
+						"expiration",
+						"expiration_date"
+					],
+					[
+						"todate",
+						"toDateTimeString"
+					],
+					[
+						"welcom",
+						"welcomeToYourNewImrgMembership"
+					],
+					[
+						"country",
+						"country_id"
+					],
+					[
+						"match",
+						"matches"
+					],
+					[
+						"member",
+						"membership"
+					],
+					[
+						"gette",
+						"getTemporaryPasswordFromEmail	(Member.php)"
+					],
+					[
+						"Import",
+						"ImportActiveMembersFromCSV	(ImportActiveMembersFromCsv.php)"
+					],
+					[
+						"array_un",
+						"array_unshift"
+					],
+					[
+						"preg_",
+						"preg_grep"
+					],
+					[
+						"calus",
+						"call_user_func_array"
+					],
+					[
+						"toDate",
+						"toDateTimeString	(2014_10_13_205016_add_users_data.php)"
+					],
+					[
+						"dealers",
+						"dealership"
+					],
+					[
+						"DateTime",
+						"date_timestamp_get"
+					],
+					[
+						"dealcon",
+						"dealer_contact_email_address"
+					],
+					[
+						"deale",
+						"dealershipName"
+					],
+					[
+						"choi",
+						"choices"
+					],
+					[
+						"chio",
+						"choices"
+					],
+					[
+						"deal",
+						"dealershipName"
+					],
+					[
+						"array_shi",
+						"array_unshift"
+					],
+					[
+						"Impo",
+						"ImportDealersFromCSV	(ImportDealersFromCSV.php)"
+					],
+					[
+						"set",
+						"setStep"
+					],
+					[
+						"em",
+						"emails"
+					],
+					[
+						"signup",
+						"signup_type"
+					],
+					[
+						"whereEmail",
+						"whereEmailLike	(MembersController.php)"
+					],
+					[
+						"membershiptyp",
+						"membershipTypeId	(registrationController.js)"
+					],
+					[
+						"Has",
+						"HasUser"
+					],
+					[
+						"childTp",
+						"childTypes"
+					],
+					[
+						"rem",
+						"remember_token	(SuperUser.php)"
+					],
+					[
+						"Moderator",
+						"ModeratorContract	(SuperUser.php)"
+					],
+					[
+						"CanRe",
+						"CanResetPasswordContract	(SuperUser.php)"
+					],
+					[
+						"Auth",
+						"AuthenticatableContract"
+					],
+					[
+						"Authen",
+						"AuthenticatableContract	(SuperUser.php)"
+					],
+					[
+						"comm",
+						"command_mode"
+					],
+					[
+						"run_macro",
+						"run_macro_file	(Default (OSX).sublime-keymap)"
+					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/builds/psr2.sublime-build",
+					"file": "/Users/karlhepler/projects/indi15001/Source/resources/assets/templates/local-chapters/chapter-info-modal.html",
 					"settings":
 					{
-						"buffer_size": 86,
-						"line_ending": "Unix",
-						"name": "untitled.sublime-build"
-					}
-				},
-				{
-					"file": "/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-					"settings":
-					{
-						"buffer_size": 450,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/karlhepler/projects/indi15001/Source/app/Brandmovers/Project/Mailer.php",
-					"settings":
-					{
-						"buffer_size": 16202,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/karlhepler/projects/indi15001/Source/app/Models/Member/Member.php",
-					"settings":
-					{
-						"buffer_size": 71570,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 596,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/karlhepler/projects/indi15001/Source/resources/assets/js/admin.js",
-					"settings":
-					{
-						"buffer_size": 5219,
+						"buffer_size": 869,
 						"line_ending": "Unix"
 					}
 				}
@@ -284,16 +1288,96 @@
 						":w - Save"
 					],
 					[
-						"remove",
-						"Package Control: Remove Package"
+						"key",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"error",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"rename",
+						"ANF: Rename File"
+					],
+					[
+						"copy",
+						"ANF: Copy Current File"
+					],
+					[
+						"align",
+						"AlignTab: Live Preview Mode"
+					],
+					[
+						":W",
+						":w - Save"
+					],
+					[
+						"prett",
+						"HTMLPrettify"
+					],
+					[
+						"keyb",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"php",
+						"SublimeREPL: PHP"
+					],
+					[
+						"prefe",
+						"Preferences: Settings - User"
+					],
+					[
+						"1",
+						"Text Pastry: From 1 To X"
 					],
 					[
 						"install",
 						"Package Control: Install Package"
 					],
 					[
-						"key",
+						"ali",
+						"AlignTab: Live Preview Mode"
+					],
+					[
+						":",
+						":w - Save"
+					],
+					[
+						"key ",
 						"Preferences: Key Bindings - Default"
+					],
+					[
+						"al",
+						"AlignTab: Live Preview Mode"
+					],
+					[
+						"delete",
+						"ANF: Delete Current File"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"listp",
+						"Package Control: List Packages"
+					],
+					[
+						"des",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"dest",
+						"Origami: Destroy Current Pane"
 					],
 					[
 						"preferences",
@@ -302,18 +1386,6 @@
 					[
 						"prefere",
 						"Preferences: Settings - Default"
-					],
-					[
-						"align",
-						"AlignTab: Live Preview Mode"
-					],
-					[
-						"prett",
-						"HTMLPrettify"
-					],
-					[
-						"php",
-						"SublimeREPL: PHP"
 					],
 					[
 						"node",
@@ -355,34 +1427,165 @@
 			[
 				"/Users/karlhepler/projects/indi15001",
 				"/Users/karlhepler/projects/indi15001/Source",
-				"/Users/karlhepler/projects/indi15001/Source/resources",
-				"/Users/karlhepler/projects/indi15001/Source/resources/assets",
-				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js",
-				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/officer"
+				"/Users/karlhepler/projects/indi15001/Source/app"
 			],
 			"file_history":
 			[
-				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/officer/OfficerDashboardController.js",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/components/chapterModule/OfficerSaveController.js",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/components/chapterModule/OfficerListController.js",
+				"/Users/karlhepler/projects/indi15001/Source/app/Models/Chapter.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2016_04_11_171838_add_url_to_chapters_table.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/templates/admin/chapter-save.html",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/components/chapterModule/ChapterSaveController.js",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/admin/controllers/DealershipSaveController.js",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/templates/admin/dealership-save.html",
+				"/Users/karlhepler/projects/indi15001/Source/app/Http/Controllers/API/ChaptersController.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/layouts/master.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Exceptions/DuplicateUserTypeException.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/User.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Exceptions/Handler.php",
 				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
-				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/karlhepler/projects/indi15001/Source/vendor/symfony/http-foundation/Request.php",
+				"/Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+				"/Users/karlhepler/projects/indi15001/Source/vendor/symfony/finder/SplFileInfo.php",
+				"/Users/karlhepler/projects/indi15001/Source/vendor/symfony/http-foundation/File/File.php",
+				"/Users/karlhepler/projects/indi15001/Source/vendor/symfony/http-foundation/File/UploadedFile.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Http/routes.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Http/Controllers/HandbookController.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Models/UGC_Upload.php",
+				"/Users/karlhepler/projects/indi15001/Source/config/brandmovers/project.json",
+				"/Users/karlhepler/projects/indi15001/Source/.env",
+				"/Users/karlhepler/projects/indi15001/Source/app/Models/Dealer/Dealer.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Console/Commands/EmailDealersPreLaunch.php",
+				"/Users/karlhepler/projects/indi15001/Source/storage/logs/laravel.log",
+				"/Users/karlhepler/Desktop/emailed_dealers.csv",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/partials/ga.blade.php",
 				"/Users/karlhepler/projects/indi15001/Source/app/Brandmovers/Project/Mailer.php",
-				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/admin.js",
-				"/Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
-				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/welcome_dealer_pre_launch.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/admin/layout.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/dealer/layout.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/officer/layout.blade.php",
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/AdvancedNewFile/Default (OSX).sublime-keymap",
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/Text Pastry/Default (OSX).sublime-keymap",
+				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/karlhepler/TODOS.todo",
+				"/Users/karlhepler/projects/indi15001/Source/storage/app/imports/active_members.csv",
+				"/Users/karlhepler/projects/indi15001/Source/app/Models/Member/MembershipType.php",
 				"/Users/karlhepler/projects/indi15001/Source/app/Models/Member/Member.php",
-				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
-				"/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings"
+				"/Users/karlhepler/projects/indi15001/Source/app/Console/Commands/ImportActiveMembersFromCsv.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Models/Member/Membership.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Console/Kernel.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2014_10_13_205016_add_users_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Brandmovers/CsvReader.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Console/Commands/ImportDealersFromCSV.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Console/Commands/ImportMembersFromCsv.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Http/Controllers/DealersController.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Traits/CanBeOfficer.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Models/Admin.php",
+				"/Users/karlhepler/projects/indi15001/Source/storage/app/imports/dealers.csv",
+				"/Users/karlhepler/projects/indi15001/Source/app/Models/Address/Address.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Models/Dealer/Dealership.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_09_24_120355_add_chapters_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_09_22_153717_add_poll_answers_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_09_22_153711_add_poll_questions_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_09_22_153646_add_hedstrom_answers_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_09_22_153639_add_hedstrom_questions_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_09_22_153623_add_personality_answers_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_09_22_153613_add_personality_questions_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_08_24_205034_add_dealers_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_08_24_203043_add_admins_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_08_24_203033_add_dealerships_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_08_24_202752_add_addresses_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/data/addresses.json",
+				"/Users/karlhepler/projects/indi15001/Source/app/Http/Controllers/API/DealershipsController.php",
+				"/Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Collection.php",
+				"/Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/data/dealerships.json",
+				"/Users/karlhepler/projects/indi15001/Source/database/data/emails.json",
+				"/Users/karlhepler/projects/indi15001/Source/database/data/hedstrom_answers.json",
+				"/Users/karlhepler/projects/indi15001/Source/database/data/hedstrom_questions.json",
+				"/Users/karlhepler/projects/indi15001/Source/database/data/patch_levels.json",
+				"/Users/karlhepler/projects/indi15001/Source/database/data/poll_questions.json",
+				"/Users/karlhepler/projects/indi15001/Source/database/factories/ModelFactory.php",
+				"/Users/karlhepler/projects/indi15001/Source/public/assets/tpl/app/layout/modals/polls-login.html",
+				"/Users/karlhepler/projects/indi15001/Source/public/assets/tpl/app/member/modals/refer-a-friend.html",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/local/css/admin.css.map",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/local/css/app.css.map",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/local/js/admin.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/local/js/app.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/local/js/app.js.map",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/local/js/dealer.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/local/js/officer.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/production/js/admin.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/production/js/app.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/production/js/dealer.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/production/js/officer.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/staging/css/app.css.map",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/staging/js/admin.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/staging/js/app.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/staging/js/app.js.map",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/staging/js/dealer.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/staging/js/officer.js",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/app/config/circleR.js",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/app/members/controllers/modals/referAFriendModalController.js",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/app/registration/controllers/registrationAddMotorcycleController.js",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/components/config/httpInterceptor.js",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/components/factories/copyrightFactory.js",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/sass/util/variables.scss",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/templates/app/layout/modals/polls-login.html",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/templates/app/member/modals/refer-a-friend.html",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/auth/member-login.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/auth/password.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/auth/reset.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/admin_created.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/all_of_your_friends_want_you_back.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/badge_acknowledgement.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/be_a_best_friend.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/check_out_whats_happening.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/collect_more_badges.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/dealer_created.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/get_to_know_your_fellow_riders.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/how_are_things_going_so_far.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/its_almost_time_to_renew.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/its_time_to_renew_your_membership.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/last_chance_to_renew.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/lets_keep_a_good_thing_going.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/we_miss_you_already_please_come_back.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/welcome_to_the_new_imrg.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/welcome_to_your_new_imrg_membership.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/partials/_benefits.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/partials/_first_achievement.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/partials/_logo.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/partials/footer.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/events/detail.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/events/list.blade.php"
 			],
 			"find":
 			{
-				"height": 57.0
+				"height": 45.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 163.0,
 				"where_history":
 				[
+					"/Users/karlhepler/projects/indi15001/Source/app/Listeners",
+					"<current file>",
+					"",
+					"*.js",
+					"*.php",
+					"",
+					"/Users/karlhepler/projects/indi15001/Source/app/Listeners",
+					"*.php",
+					"*.blade.php",
+					"*.php",
+					"",
+					"/Users/karlhepler/projects/indi15001/Source",
+					"",
+					"<current file>",
+					"Source/tests",
+					"/Users/karlhepler/projects/indi15001/Source/tests",
+					"Source/test"
 				]
 			},
 			"find_state":
@@ -390,6 +1593,112 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"saveofficer",
+					"$watch",
+					"DuplicateUserTypException",
+					"tab",
+					"super+w",
+					"cmd+tab",
+					"tab",
+					"files",
+					"$this->files",
+					"files",
+					"NOT SEN",
+					"text",
+					"memberRegistered",
+					"602-541-0746",
+					"Name",
+					"answer",
+					"question",
+					"answer",
+					"question",
+					"answer",
+					"question",
+					"dealer",
+					"admin",
+					"dealership",
+					"user",
+					"(\"id\":\\s*\\d+,)",
+					"\"id\":\\s*\\d+,",
+					"geocode",
+					"Dealership",
+					"dealership",
+					"public static function",
+					"[2016-04-04 21:19:52] local.ERROR: exception 'ErrorException' with message 'Non-static method App\\Models\\Address\\Address::lookupStateId() should not be called statically' in /Users/karlhepler/projects/indi15001/Source/app/Models/Address/Address.php:141\nStack trace:\n#0 /Users/karlhepler/projects/indi15001/Source/app/Models/Address/Address.php(141): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2048, 'Non-static meth...', '/Users/karlhepl...', 141, Array)\n#1 /Users/karlhepler/projects/indi15001/Source/app/Models/Address/Address.php(141): App\\Models\\Address\\Address::lookupStateId()\n#2 [internal function]: App\\Models\\Address\\Address::App\\Models\\Address\\{closure}(Object(App\\Models\\Address\\Address))\n#3 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php(221): call_user_func_array(Object(Closure), Array)\n#4 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php(164): Illuminate\\Events\\Dispatcher->fire('eloquent.creati...', Object(App\\Models\\Address\\Address), true)\n#5 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(1692): Illuminate\\Events\\Dispatcher->until('eloquent.creati...', Object(App\\Models\\Address\\Address))\n#6 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(1588): Illuminate\\Database\\Eloquent\\Model->fireModelEvent('creating')\n#7 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(1511): Illuminate\\Database\\Eloquent\\Model->performInsert(Object(Illuminate\\Database\\Eloquent\\Builder), Array)\n#8 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(546): Illuminate\\Database\\Eloquent\\Model->save()\n#9 /Users/karlhepler/projects/indi15001/Source/app/Models/Dealer/Dealership.php(108): Illuminate\\Database\\Eloquent\\Model::create(Array)\n#10 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(2831): App\\Models\\Dealer\\Dealership->setAddressAttribute(Array)\n#11 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(422): Illuminate\\Database\\Eloquent\\Model->setAttribute('address', Array)\n#12 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(278): Illuminate\\Database\\Eloquent\\Model->fill(Array)\n#13 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(544): Illuminate\\Database\\Eloquent\\Model->__construct(Array)\n#14 /Users/karlhepler/projects/indi15001/Source/app/Console/Commands/ImportDealersFromCSV.php(80): Illuminate\\Database\\Eloquent\\Model::create(Array)\n#15 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Connection.php(476): App\\Console\\Commands\\ImportDealersFromCSV->App\\Console\\Commands\\{closure}(Object(Illuminate\\Database\\MySqlConnection))\n#16 [internal function]: Illuminate\\Database\\Connection->transaction(Object(Closure))\n#17 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/DatabaseManager.php(296): call_user_func_array(Array, Array)\n#18 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(210): Illuminate\\Database\\DatabaseManager->__call('transaction', Array)\n#19 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(210): Brandmovers\\FancyQuery\\FancyDatabaseManager->transaction(Object(Closure))\n#20 /Users/karlhepler/projects/indi15001/Source/app/Console/Commands/ImportDealersFromCSV.php(85): Illuminate\\Support\\Facades\\Facade::__callStatic('transaction', Array)\n#21 /Users/karlhepler/projects/indi15001/Source/app/Console/Commands/ImportDealersFromCSV.php(85): Illuminate\\Support\\Facades\\DB::transaction(Object(Closure))\n#22 /Users/karlhepler/projects/indi15001/Source/app/Brandmovers/CsvReader.php(57): App\\Console\\Commands\\ImportDealersFromCSV->App\\Console\\Commands\\{closure}(Array)\n#23 /Users/karlhepler/projects/indi15001/Source/app/Console/Commands/ImportDealersFromCSV.php(86): App\\Brandmovers\\CsvReader->eachRow(Object(Closure))\n#24 [internal function]: App\\Console\\Commands\\ImportDealersFromCSV->handle()\n#25 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Container/Container.php(503): call_user_func_array(Array, Array)\n#26 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Console/Command.php(150): Illuminate\\Container\\Container->call(Array)\n#27 /Users/karlhepler/projects/indi15001/Source/vendor/symfony/console/Command/Command.php(259): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))\n#28 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Console/Command.php(136): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))\n#29 /Users/karlhepler/projects/indi15001/Source/vendor/symfony/console/Application.php(878): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))\n#30 /Users/karlhepler/projects/indi15001/Source/vendor/symfony/console/Application.php(195): Symfony\\Component\\Console\\Application->doRunCommand(Object(App\\Console\\Commands\\ImportDealersFromCSV), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))\n#31 /Users/karlhepler/projects/indi15001/Source/vendor/symfony/console/Application.php(126): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))\n#32 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(100): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))\n#33 /Users/karlhepler/projects/indi15001/Source/artisan(36): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))\n#34 {main}  \n",
+					"protected static methods",
+					"possibilities",
+					"Deal",
+					"normalizeDealershipName",
+					"splice",
+					"&#174;",
+					"#174;",
+					"billingCopySrc",
+					"billingcopysrc",
+					"billingCopySrc",
+					"billingcopysrc",
+					"use profile address",
+					"officerAdded",
+					"isset($member)",
+					"$member",
+					"return ",
+					"user",
+					"created",
+					"signup_type",
+					"super_user_id",
+					"email",
+					"child_type",
+					"registrar",
+					"super_id",
+					"setUser",
+					"child_type",
+					"unique_or_officer",
+					"child_type",
+					"membershipTypeId",
+					"{{",
+					"@todo",
+					"address_1",
+					"child_user",
+					"ChildUser",
+					"memberRegistered",
+					"->child(?!\\w)",
+					"->child(?!r)",
+					"->child(?!=r)",
+					"->child",
+					"$user->child",
+					"$user->",
+					"child",
+					"super_users",
+					"SuperUser",
+					"Brandmovers\\SuperUsers\\SuperUser",
+					"\"Brandmovers\\SuperUsers\\SuperUser\"",
+					"Brandmovers\\SuperUsers\\SuperUser",
+					"polaris",
+					"Brandmovers\\SuperUsers\\SuperUser",
+					"Brandmovers\\\\SuperUsers\\\\SuperUser",
+					"Brandmovers\\SuperUsers\\SuperUser",
+					"SuperUser",
+					"This member belongs to another dealership",
+					",\\s*\"child_id\":.*(?=})",
+					",\\s*\"child_id\":.*(?:})",
+					",\\s*\"child_id\":.*}",
+					"SuperUser",
+					"super_user",
+					"super_users",
+					"super_user",
+					"super_users",
+					"ChildUser",
+					"super",
+					"[\"{\",",
+					"polaris",
+					"travel_to_pane",
+					"next_",
+					"getPosts()",
+					"drop",
+					"schema::drop",
+					"{\"",
+					",source.js",
+					"\"p\", ",
+					"40",
 					"is_registered",
 					"created_at",
 					"reated_a",
@@ -408,9 +1717,24 @@
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": false,
+				"regex": true,
 				"replace_history":
 				[
+					"$1 \"created_at\": \"now()\", \"updated_at\": \"now()\",",
+					"®",
+					"users",
+					"User",
+					"App\\User",
+					"poop",
+					"App\\User",
+					"App\\\\User",
+					"",
+					" App",
+					" App\\User",
+					" App\\\\User",
+					" App\\User",
+					" ",
+					""
 				],
 				"reverse": false,
 				"show_context": true,
@@ -427,198 +1751,37 @@
 			"groups":
 			[
 				{
-					"selected": 4,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/builds/psr2.sublime-build",
+							"file": "/Users/karlhepler/projects/indi15001/Source/resources/assets/templates/local-chapters/chapter-info-modal.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 86,
+								"buffer_size": 869,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										84,
-										84
+										372,
+										372
 									]
 								],
 								"settings":
 								{
 									"color_scheme": "Packages/User/Color Highlighter/themes/base16-ocean.dark (SL).tmTheme",
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 450,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										445,
-										445
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/Users/karlhepler/projects/indi15001/Source/app/Brandmovers/Project/Mailer.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 16202,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1706,
-										1706
-									]
-								],
-								"settings":
-								{
-									"color_scheme": "Packages/User/Color Highlighter/themes/base16-ocean.dark (SL).tmTheme",
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1591.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/Users/karlhepler/projects/indi15001/Source/app/Models/Member/Member.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 71570,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										5333,
-										5333
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 4959.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 596,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										591,
-										591
-									]
-								],
-								"settings":
-								{
-									"color_scheme": "Packages/User/Color Highlighter/themes/base16-ocean.dark (SL).tmTheme",
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-									"translate_tabs_to_spaces": false,
-									"vintage":
-									{
-										"action": null,
-										"action_count": "",
-										"mode": "mode_normal",
-										"motion": null,
-										"motion_count": "",
-										"must_capture_register_name": false,
-										"partial_sequence": "",
-										"register": "\"",
-										"sequence": "",
-										"xpos": 25
-									}
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/Users/karlhepler/projects/indi15001/Source/resources/assets/js/admin.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 5219,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										79,
-										79
-									]
-								],
-								"settings":
-								{
-									"color_scheme": "Packages/User/Color Highlighter/themes/base16-ocean.dark (SL).tmTheme",
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 8.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
 							"type": "text"
 						}
 					]
@@ -664,7 +1827,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "Packages/User/builds/psr2.sublime-build",
-			"position": "1 384 245 911 578 0 0 1680 1027 ",
+			"position": "1 205 90 1270 865 0 0 1680 1027 ",
 			"project": "",
 			"replace":
 			{
@@ -678,8 +1841,1687 @@
 				"selected_items":
 				[
 					[
+						"officersave",
+						"Source/resources/assets/js/components/chapterModule/OfficerSaveController.js"
+					],
+					[
+						"chapter/modl",
+						"Source/resources/assets/templates/local-chapters/chapter-info-modal.html"
+					],
+					[
+						"officerlist",
+						"Source/resources/assets/js/components/chapterModule/OfficerListController.js"
+					],
+					[
+						"chapter.php",
+						"Source/app/Models/Chapter.php"
+					],
+					[
+						"addurltocha",
+						"Source/database/migrations/2016_04_11_171838_add_url_to_chapters_table.php"
+					],
+					[
+						"templates/dealership",
+						"Source/resources/assets/templates/admin/dealership-save.html"
+					],
+					[
+						"dealershipsavecont",
+						"Source/resources/assets/js/admin/controllers/DealershipSaveController.js"
+					],
+					[
+						"template/chaptersave",
+						"Source/resources/assets/templates/admin/chapter-save.html"
+					],
+					[
+						"chaptersave",
+						"Source/resources/assets/js/components/chapterModule/ChapterSaveController.js"
+					],
+					[
+						"chaptercontroller",
+						"Source/app/Http/Controllers/API/ChaptersController.php"
+					],
+					[
+						"master.blade.php",
+						"Source/resources/views/layouts/master.blade.php"
+					],
+					[
+						"user.php",
+						"Source/app/User.php"
+					],
+					[
+						"httpfoundation/file/file",
+						"Source/vendor/symfony/http-foundation/File/File.php"
+					],
+					[
+						"uploadedfile",
+						"Source/vendor/symfony/http-foundation/File/UploadedFile.php"
+					],
+					[
+						"symfony/request",
+						"Source/vendor/symfony/http-foundation/Request.php"
+					],
+					[
+						"illuminate/http/request",
+						"Source/vendor/laravel/framework/src/Illuminate/Http/Request.php"
+					],
+					[
+						"handbookcon",
+						"Source/app/Http/Controllers/HandbookController.php"
+					],
+					[
+						"routes.php",
+						"Source/app/Http/routes.php"
+					],
+					[
+						"upload",
+						"Source/app/Models/UGC_Upload.php"
+					],
+					[
+						".env",
+						"Source/.env"
+					],
+					[
+						"project.j",
+						"Source/config/brandmovers/project.json"
+					],
+					[
+						"laravel",
+						"Source/storage/logs/laravel.log"
+					],
+					[
+						"dealer.php",
+						"Source/app/Models/Dealer/Dealer.php"
+					],
+					[
+						"ga.bld",
+						"Source/resources/views/partials/ga.blade.php"
+					],
+					[
+						"email/welcome",
+						"Source/resources/views/emails/welcome_dealer_pre_launch.blade.php"
+					],
+					[
+						"mailer",
+						"Source/app/Brandmovers/Project/Mailer.php"
+					],
+					[
+						"console/pre",
+						"Source/app/Console/Commands/EmailDealersPreLaunch.php"
+					],
+					[
+						"officer/layou",
+						"Source/resources/views/officer/layout.blade.php"
+					],
+					[
+						"dealer/layou",
+						"Source/resources/views/dealer/layout.blade.php"
+					],
+					[
+						"admin/lay",
+						"Source/resources/views/admin/layout.blade.php"
+					],
+					[
+						"membercsv",
+						"storage/app/imports/active_members.csv"
+					],
+					[
+						"misc",
+						"app/Listeners/Misc.php"
+					],
+					[
 						"member.php",
-						"Source/app/Models/Member/Member.php"
+						"app/Models/Member/Member.php"
+					],
+					[
+						"statesjson",
+						"database/data/states.json"
+					],
+					[
+						"membershiptype",
+						"app/Models/Member/MembershipType.php"
+					],
+					[
+						"project",
+						"config/brandmovers/project.json"
+					],
+					[
+						"activemembercsv",
+						"storage/app/imports/active_members.csv"
+					],
+					[
+						"importmember",
+						"app/Console/Commands/ImportActiveMembersFromCsv.php"
+					],
+					[
+						"larave",
+						"storage/logs/laravel.log"
+					],
+					[
+						"membership.php",
+						"app/Models/Member/Membership.php"
+					],
+					[
+						"member",
+						"app/Models/Member/Member.php"
+					],
+					[
+						"csvread",
+						"app/Brandmovers/CsvReader.php"
+					],
+					[
+						"console/ker",
+						"app/Console/Kernel.php"
+					],
+					[
+						"lara",
+						"storage/logs/laravel.log"
+					],
+					[
+						"console/dealer",
+						"app/Console/Commands/ImportDealersFromCSV.php"
+					],
+					[
+						"project.json",
+						"config/brandmovers/project.json"
+					],
+					[
+						"dealerscsv",
+						"storage/app/imports/dealers.csv"
+					],
+					[
+						"address.php",
+						"app/Models/Address/Address.php"
+					],
+					[
+						"chapter.ph",
+						"app/Models/Chapter.php"
+					],
+					[
+						"admin.php",
+						"app/Models/Admin.php"
+					],
+					[
+						"canbeoffic",
+						"app/Traits/CanBeOfficer.php"
+					],
+					[
+						"dealershipcontroll",
+						"app/Http/Controllers/API/DealershipsController.php"
+					],
+					[
+						"dealercontroller",
+						"app/Http/Controllers/DealersController.php"
+					],
+					[
+						"dealership.php",
+						"app/Models/Dealer/Dealership.php"
+					],
+					[
+						"address",
+						"app/Models/Address/Address.php"
+					],
+					[
+						"eloquentcolle",
+						"vendor/laravel/framework/src/Illuminate/Database/Eloquent/Collection.php"
+					],
+					[
+						"eloquent/builder",
+						"vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php"
+					],
+					[
+						"registrationbladephp",
+						"resources/views/registration/partial/account_setup/step1.blade.php"
+					],
+					[
+						"registrationjs",
+						"resources/assets/js/app/registration/controllers/registrationController.js"
+					],
+					[
+						"payment",
+						"resources/views/member_dashboard/partial/fieldsets/payment_fields.blade.php"
+					],
+					[
+						"registjs",
+						"resources/assets/js/app/registration/controllers/registrationController.js"
+					],
+					[
+						"partialspay",
+						"resources/views/member_dashboard/partial/fieldsets/payment_fields.blade.php"
+					],
+					[
+						"memberaddedtochapter",
+						"app/Events/MemberAddedToChapter.php"
+					],
+					[
+						"officer.php",
+						"app/Models/Officer.php"
+					],
+					[
+						"misc.php",
+						"app/Listeners/Misc.php"
+					],
+					[
+						"mailer.php",
+						"app/Brandmovers/Project/Mailer.php"
+					],
+					[
+						"delayedme",
+						"app/Models/DelayedEmail.php"
+					],
+					[
+						"email/footer.blade",
+						"resources/views/emails/partials/footer.blade.php"
+					],
+					[
+						"delayedemailte",
+						"tests/DelayedEmailTest.php"
+					],
+					[
+						"controll",
+						"app/Http/Controllers/Controller.php"
+					],
+					[
+						"master.blad",
+						"resources/views/layouts/master.blade.php"
+					],
+					[
+						"membercontro",
+						"app/Http/Controllers/API/MembersController.php"
+					],
+					[
+						"additionalmem",
+						"tests/AdditionalMemberTypesTest.php"
+					],
+					[
+						"createmembershiptab",
+						"database/migrations/2015_08_10_195817_create_memberships_table.php"
+					],
+					[
+						"hasposto",
+						"app/Traits/HasPostAuthor.php"
+					],
+					[
+						"officerscontroll",
+						"app/Http/Controllers/API/OfficersController.php"
+					],
+					[
+						"hasuser",
+						"app/Traits/HasUser.php"
+					],
+					[
+						"eloquentbuilder",
+						"vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php"
+					],
+					[
+						"model.php",
+						"vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php"
+					],
+					[
+						"memberscontroller",
+						"app/Http/Controllers/API/MembersController.php"
+					],
+					[
+						"memberscontroller.php",
+						"app/Http/Controllers/API/MembersController.php"
+					],
+					[
+						"layoutmaster",
+						"resources/views/layouts/master.blade.php"
+					],
+					[
+						"navblad",
+						"resources/views/member_dashboard/partial/profile_nav.blade.php"
+					],
+					[
+						"validator",
+						"app/Brandmovers/Project/Validator.php"
+					],
+					[
+						"updatememberreq",
+						"app/Http/Requests/UpdateMemberRequest.php"
+					],
+					[
+						"createmem",
+						"app/Http/Requests/CreateMemberRequest.php"
+					],
+					[
+						"paymentfie",
+						"resources/views/member_dashboard/partial/fieldsets/payment_fields.blade.php"
+					],
+					[
+						"registrationcontroller",
+						"resources/assets/js/app/registration/controllers/registrationController.js"
+					],
+					[
+						"jiratest",
+						"tests/JiraTest.php"
+					],
+					[
+						"dealershipmember",
+						"app/Http/Controllers/API/DealershipMembersController.php"
+					],
+					[
+						"memberdashindex",
+						"resources/views/member_dashboard/index.blade.php"
+					],
+					[
+						"motorcyclefield",
+						"resources/views/registration/partial/add_your_motorcycle/motorcycle_fields.blade.php"
+					],
+					[
+						"addyour",
+						"resources/views/registration/add_your_motorcycle.blade.php"
+					],
+					[
+						"ugcupl",
+						"app/Models/UGC_Upload.php"
+					],
+					[
+						"memberregistered",
+						"app/Events/MemberRegistered.php"
+					],
+					[
+						"step2compl",
+						"app/Http/Middleware/RegistrationStep2Complete.php"
+					],
+					[
+						"member_dashbard/index",
+						"resources/views/member_dashboard/index.blade.php"
+					],
+					[
+						"memberdashboardcon",
+						"app/Http/Controllers/MemberDashboardController.php"
+					],
+					[
+						"adminscontroller",
+						"app/Http/Controllers/AdminsController.php"
+					],
+					[
+						"controller",
+						"app/Http/Controllers/Controller.php"
+					],
+					[
+						"registrationcon",
+						"app/Http/Controllers/RegistrationController.php"
+					],
+					[
+						"config/auth",
+						"Source/config/auth.php"
+					],
+					[
+						"polaris",
+						"Source/vendor/brandmovers/polaris-api-client/src/Brandmovers/PolarisAPI/PolarisAPIServiceProvider.php"
+					],
+					[
+						"validation",
+						"Source/resources/lang/en/validation.php"
+					],
+					[
+						"superuser",
+						"Source/vendor/brandmovers/super-users/src/Brandmovers/SuperUsers/SuperUser.php"
+					],
+					[
+						"app/user",
+						"Source/app/User.php"
+					],
+					[
+						"additiona",
+						"Source/tests/AdditionalMemberTypesTest.php"
+					],
+					[
+						"dea",
+						"Source/app/Models/Dealer/Dealer.php"
+					],
+					[
+						"collection.php",
+						"Source/vendor/laravel/framework/src/Illuminate/Support/Collection.php"
+					],
+					[
+						"contracts/proxy",
+						"Source/vendor/brandmovers/super-users/src/Brandmovers/SuperUsers/Contracts/Proxy.php"
+					],
+					[
+						"canpro",
+						"Source/vendor/brandmovers/super-users/src/Brandmovers/SuperUsers/Traits/CanProxy.php"
+					],
+					[
+						"officer",
+						"Source/app/Models/Officer.php"
+					],
+					[
+						"superuserpro",
+						"Source/vendor/brandmovers/super-users/src/Brandmovers/SuperUsers/SuperUsersServiceProvider.php"
+					],
+					[
+						"superuser.php",
+						"Source/vendor/brandmovers/super-users/src/Brandmovers/SuperUsers/SuperUser.php"
+					],
+					[
+						"userprovider",
+						"Source/app/Providers/UserProvider.php"
+					],
+					[
+						"config/app",
+						"Source/config/app.php"
+					],
+					[
+						"createsuperuser",
+						"Source/database/migrations/2014_10_15_123959_create_super_users_table_and_rels.php"
+					],
+					[
+						"createsuer",
+						"Source/vendor/brandmovers/super-users/src/Brandmovers/SuperUsers/migrations/create_super_users_table_and_rels.stub"
+					],
+					[
+						"config/pol",
+						"Source/vendor/brandmovers/polaris-api-client/src/Brandmovers/PolarisAPI/config/polaris.php"
+					],
+					[
+						"createuserstable",
+						"Source/database/migrations/2016_03_31_162105_create_users_table.php"
+					],
+					[
+						"",
+						".gitignore"
+					],
+					[
+						"super",
+						"Source/vendor/brandmovers/super-users/src/Brandmovers/SuperUsers/SuperUser.php"
+					],
+					[
+						"ryanpunchlistemail_10_5_2015test",
+						"Source/tests/RyanPunchListEmail_10_5_2015Test.php"
+					],
+					[
+						"membertest",
+						"Source/tests/MemberTest.php"
+					],
+					[
+						"forum.php",
+						"Source/app/Models/Forum/Forum.php"
+					],
+					[
+						"forumtest",
+						"Source/tests/ForumTest.php"
+					],
+					[
+						"foundation/testing/data",
+						"Source/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseMigrations.php"
+					],
+					[
+						"createdelayedemails",
+						"Source/database/migrations/2016_03_31_145949_create_delayed_emails_table.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 81.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 392.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 226.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 52,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"expiration",
+						"expiration_date"
+					],
+					[
+						"todate",
+						"toDateTimeString"
+					],
+					[
+						"welcom",
+						"welcomeToYourNewImrgMembership"
+					],
+					[
+						"country",
+						"country_id"
+					],
+					[
+						"match",
+						"matches"
+					],
+					[
+						"member",
+						"membership"
+					],
+					[
+						"gette",
+						"getTemporaryPasswordFromEmail	(Member.php)"
+					],
+					[
+						"Import",
+						"ImportActiveMembersFromCSV	(ImportActiveMembersFromCsv.php)"
+					],
+					[
+						"array_un",
+						"array_unshift"
+					],
+					[
+						"preg_",
+						"preg_grep"
+					],
+					[
+						"calus",
+						"call_user_func_array"
+					],
+					[
+						"toDate",
+						"toDateTimeString	(2014_10_13_205016_add_users_data.php)"
+					],
+					[
+						"dealers",
+						"dealership"
+					],
+					[
+						"DateTime",
+						"date_timestamp_get"
+					],
+					[
+						"dealcon",
+						"dealer_contact_email_address"
+					],
+					[
+						"deale",
+						"dealershipName"
+					],
+					[
+						"choi",
+						"choices"
+					],
+					[
+						"chio",
+						"choices"
+					],
+					[
+						"deal",
+						"dealershipName"
+					],
+					[
+						"array_shi",
+						"array_unshift"
+					],
+					[
+						"Impo",
+						"ImportDealersFromCSV	(ImportDealersFromCSV.php)"
+					],
+					[
+						"set",
+						"setStep"
+					],
+					[
+						"em",
+						"emails"
+					],
+					[
+						"signup",
+						"signup_type"
+					],
+					[
+						"whereEmail",
+						"whereEmailLike	(MembersController.php)"
+					],
+					[
+						"membershiptyp",
+						"membershipTypeId	(registrationController.js)"
+					],
+					[
+						"Has",
+						"HasUser"
+					],
+					[
+						"childTp",
+						"childTypes"
+					],
+					[
+						"rem",
+						"remember_token	(SuperUser.php)"
+					],
+					[
+						"Moderator",
+						"ModeratorContract	(SuperUser.php)"
+					],
+					[
+						"CanRe",
+						"CanResetPasswordContract	(SuperUser.php)"
+					],
+					[
+						"Auth",
+						"AuthenticatableContract"
+					],
+					[
+						"Authen",
+						"AuthenticatableContract	(SuperUser.php)"
+					],
+					[
+						"comm",
+						"command_mode"
+					],
+					[
+						"run_macro",
+						"run_macro_file	(Default (OSX).sublime-keymap)"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/karlhepler/TODOS.todo",
+					"settings":
+					{
+						"buffer_size": 153761,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": ":w",
+				"selected_items":
+				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"error",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"rename",
+						"ANF: Rename File"
+					],
+					[
+						"copy",
+						"ANF: Copy Current File"
+					],
+					[
+						"align",
+						"AlignTab: Live Preview Mode"
+					],
+					[
+						":W",
+						":w - Save"
+					],
+					[
+						"prett",
+						"HTMLPrettify"
+					],
+					[
+						"keyb",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"php",
+						"SublimeREPL: PHP"
+					],
+					[
+						"prefe",
+						"Preferences: Settings - User"
+					],
+					[
+						"1",
+						"Text Pastry: From 1 To X"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"ali",
+						"AlignTab: Live Preview Mode"
+					],
+					[
+						":",
+						":w - Save"
+					],
+					[
+						"key ",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"al",
+						"AlignTab: Live Preview Mode"
+					],
+					[
+						"delete",
+						"ANF: Delete Current File"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"listp",
+						"Package Control: List Packages"
+					],
+					[
+						"des",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"dest",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"preferences",
+						"Preferences: Settings - User"
+					],
+					[
+						"prefere",
+						"Preferences: Settings - Default"
+					],
+					[
+						"node",
+						"SublimeREPL: Node"
+					],
+					[
+						"javascr",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"markdown",
+						"Set Syntax: MultiMarkdown"
+					],
+					[
+						"user",
+						"Preferences: Settings - User"
+					]
+				],
+				"width": 475.0
+			},
+			"console":
+			{
+				"height": 244.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/karlhepler/TODOS.todo",
+				"/Users/karlhepler/projects/indi15001/Source/storage/app/imports/active_members.csv",
+				"/Users/karlhepler/projects/indi15001/Source/app/Models/Member/MembershipType.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Models/Member/Member.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Console/Commands/ImportActiveMembersFromCsv.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Models/Member/Membership.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Console/Kernel.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2014_10_13_205016_add_users_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Brandmovers/CsvReader.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Console/Commands/ImportDealersFromCSV.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Console/Commands/ImportMembersFromCsv.php",
+				"/Users/karlhepler/projects/indi15001/Source/storage/logs/laravel.log",
+				"/Users/karlhepler/projects/indi15001/Source/app/Http/Controllers/DealersController.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Traits/CanBeOfficer.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Models/Admin.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Models/Dealer/Dealer.php",
+				"/Users/karlhepler/projects/indi15001/Source/storage/app/imports/dealers.csv",
+				"/Users/karlhepler/projects/indi15001/Source/app/Models/Address/Address.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Models/Dealer/Dealership.php",
+				"/Users/karlhepler/projects/indi15001/Source/app/Models/Chapter.php",
+				"/Users/karlhepler/projects/indi15001/Source/config/brandmovers/project.json",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_09_24_120355_add_chapters_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_09_22_153717_add_poll_answers_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_09_22_153711_add_poll_questions_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_09_22_153646_add_hedstrom_answers_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_09_22_153639_add_hedstrom_questions_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_09_22_153623_add_personality_answers_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_09_22_153613_add_personality_questions_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_08_24_205034_add_dealers_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_08_24_203043_add_admins_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_08_24_203033_add_dealerships_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/migrations/2015_08_24_202752_add_addresses_data.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/data/addresses.json",
+				"/Users/karlhepler/projects/indi15001/Source/app/Http/Controllers/API/DealershipsController.php",
+				"/Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Collection.php",
+				"/Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php",
+				"/Users/karlhepler/projects/indi15001/Source/database/data/dealerships.json",
+				"/Users/karlhepler/projects/indi15001/Source/database/data/emails.json",
+				"/Users/karlhepler/projects/indi15001/Source/database/data/hedstrom_answers.json",
+				"/Users/karlhepler/projects/indi15001/Source/database/data/hedstrom_questions.json",
+				"/Users/karlhepler/projects/indi15001/Source/database/data/patch_levels.json",
+				"/Users/karlhepler/projects/indi15001/Source/database/data/poll_questions.json",
+				"/Users/karlhepler/projects/indi15001/Source/database/factories/ModelFactory.php",
+				"/Users/karlhepler/projects/indi15001/Source/public/assets/tpl/app/layout/modals/polls-login.html",
+				"/Users/karlhepler/projects/indi15001/Source/public/assets/tpl/app/member/modals/refer-a-friend.html",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/local/css/admin.css.map",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/local/css/app.css.map",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/local/js/admin.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/local/js/app.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/local/js/app.js.map",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/local/js/dealer.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/local/js/officer.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/production/js/admin.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/production/js/app.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/production/js/dealer.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/production/js/officer.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/staging/css/app.css.map",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/staging/js/admin.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/staging/js/app.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/staging/js/app.js.map",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/staging/js/dealer.js",
+				"/Users/karlhepler/projects/indi15001/Source/public/builds/staging/js/officer.js",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/app/config/circleR.js",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/app/members/controllers/modals/referAFriendModalController.js",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/app/registration/controllers/registrationAddMotorcycleController.js",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/components/config/httpInterceptor.js",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/js/components/factories/copyrightFactory.js",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/sass/util/variables.scss",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/templates/app/layout/modals/polls-login.html",
+				"/Users/karlhepler/projects/indi15001/Source/resources/assets/templates/app/member/modals/refer-a-friend.html",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/auth/member-login.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/auth/password.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/auth/reset.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/admin_created.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/all_of_your_friends_want_you_back.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/badge_acknowledgement.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/be_a_best_friend.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/check_out_whats_happening.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/collect_more_badges.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/dealer_created.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/get_to_know_your_fellow_riders.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/how_are_things_going_so_far.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/its_almost_time_to_renew.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/its_time_to_renew_your_membership.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/last_chance_to_renew.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/lets_keep_a_good_thing_going.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/we_miss_you_already_please_come_back.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/welcome_dealer_pre_launch.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/welcome_to_the_new_imrg.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/welcome_to_your_new_imrg_membership.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/partials/_benefits.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/partials/_first_achievement.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/partials/_logo.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/emails/partials/footer.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/events/detail.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/events/list.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/events/partial/event_links.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/layouts/master.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/local_chapters/list.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/member_dashboard/motorcycles.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/member_dashboard/payment_info.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/member_dashboard/profile.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/member_dashboard/questionnaire.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/member_dashboard/partial/fieldsets/personal_fields.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/pages/about.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/pages/change_region.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/pages/home.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/pages/polls_quizzes.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/registration/account_setup.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/registration/add_your_motorcycle.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/registration/questionnaire.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/registration/partial/account_setup/complete.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/registration/partial/account_setup/step1.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/registration/partial/account_setup/step2.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/registration/partial/add_your_motorcycle/_old_hedstrom.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/registration/partial/add_your_motorcycle/_old_hendee.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/resources/views/registration/partial/add_your_motorcycle/motorcycle_fields.blade.php",
+				"/Users/karlhepler/projects/indi15001/Source/storage/framework/views/1a2d2cb1e57a491dd0b46d88ad9c91a8",
+				"/Users/karlhepler/projects/indi15001/Source/storage/framework/views/1c022dbe05cafb603dea848860bbe0bd",
+				"/Users/karlhepler/projects/indi15001/Source/storage/framework/views/1f2b07255d5afa2ae3d32f2d4840b25e",
+				"/Users/karlhepler/projects/indi15001/Source/storage/framework/views/25b80f639043b8c86d1fcbb36921693a",
+				"/Users/karlhepler/projects/indi15001/Source/storage/framework/views/28e218d1b00304a5dd13eed33735d277",
+				"/Users/karlhepler/projects/indi15001/Source/storage/framework/views/36d06fddeb7ca62dc1b15faa8438ea37",
+				"/Users/karlhepler/projects/indi15001/Source/storage/framework/views/44171a9eae74d060200cc05c013bf969",
+				"/Users/karlhepler/projects/indi15001/Source/storage/framework/views/5a371d184ad65bdeda66facd60ae161d",
+				"/Users/karlhepler/projects/indi15001/Source/storage/framework/views/5a3f5669c8ec09a89a80a00ec1e7cd39",
+				"/Users/karlhepler/projects/indi15001/Source/storage/framework/views/5bed3117d8af743f92c20875e35166c1",
+				"/Users/karlhepler/projects/indi15001/Source/storage/framework/views/5ca01977b36fd83459e26477db5aa7a5"
+			],
+			"find":
+			{
+				"height": 45.0
+			},
+			"find_in_files":
+			{
+				"height": 163.0,
+				"where_history":
+				[
+					"/Users/karlhepler/projects/indi15001/Source/app/Listeners",
+					"<current file>",
+					"",
+					"*.js",
+					"*.php",
+					"",
+					"/Users/karlhepler/projects/indi15001/Source/app/Listeners",
+					"*.php",
+					"*.blade.php",
+					"*.php",
+					"",
+					"/Users/karlhepler/projects/indi15001/Source",
+					"",
+					"<current file>",
+					"Source/tests",
+					"/Users/karlhepler/projects/indi15001/Source/tests",
+					"Source/test"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"memberRegistered",
+					"602-541-0746",
+					"Name",
+					"answer",
+					"question",
+					"answer",
+					"question",
+					"answer",
+					"question",
+					"dealer",
+					"admin",
+					"dealership",
+					"user",
+					"(\"id\":\\s*\\d+,)",
+					"\"id\":\\s*\\d+,",
+					"geocode",
+					"Dealership",
+					"dealership",
+					"public static function",
+					"[2016-04-04 21:19:52] local.ERROR: exception 'ErrorException' with message 'Non-static method App\\Models\\Address\\Address::lookupStateId() should not be called statically' in /Users/karlhepler/projects/indi15001/Source/app/Models/Address/Address.php:141\nStack trace:\n#0 /Users/karlhepler/projects/indi15001/Source/app/Models/Address/Address.php(141): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2048, 'Non-static meth...', '/Users/karlhepl...', 141, Array)\n#1 /Users/karlhepler/projects/indi15001/Source/app/Models/Address/Address.php(141): App\\Models\\Address\\Address::lookupStateId()\n#2 [internal function]: App\\Models\\Address\\Address::App\\Models\\Address\\{closure}(Object(App\\Models\\Address\\Address))\n#3 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php(221): call_user_func_array(Object(Closure), Array)\n#4 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php(164): Illuminate\\Events\\Dispatcher->fire('eloquent.creati...', Object(App\\Models\\Address\\Address), true)\n#5 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(1692): Illuminate\\Events\\Dispatcher->until('eloquent.creati...', Object(App\\Models\\Address\\Address))\n#6 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(1588): Illuminate\\Database\\Eloquent\\Model->fireModelEvent('creating')\n#7 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(1511): Illuminate\\Database\\Eloquent\\Model->performInsert(Object(Illuminate\\Database\\Eloquent\\Builder), Array)\n#8 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(546): Illuminate\\Database\\Eloquent\\Model->save()\n#9 /Users/karlhepler/projects/indi15001/Source/app/Models/Dealer/Dealership.php(108): Illuminate\\Database\\Eloquent\\Model::create(Array)\n#10 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(2831): App\\Models\\Dealer\\Dealership->setAddressAttribute(Array)\n#11 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(422): Illuminate\\Database\\Eloquent\\Model->setAttribute('address', Array)\n#12 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(278): Illuminate\\Database\\Eloquent\\Model->fill(Array)\n#13 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(544): Illuminate\\Database\\Eloquent\\Model->__construct(Array)\n#14 /Users/karlhepler/projects/indi15001/Source/app/Console/Commands/ImportDealersFromCSV.php(80): Illuminate\\Database\\Eloquent\\Model::create(Array)\n#15 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/Connection.php(476): App\\Console\\Commands\\ImportDealersFromCSV->App\\Console\\Commands\\{closure}(Object(Illuminate\\Database\\MySqlConnection))\n#16 [internal function]: Illuminate\\Database\\Connection->transaction(Object(Closure))\n#17 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Database/DatabaseManager.php(296): call_user_func_array(Array, Array)\n#18 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(210): Illuminate\\Database\\DatabaseManager->__call('transaction', Array)\n#19 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(210): Brandmovers\\FancyQuery\\FancyDatabaseManager->transaction(Object(Closure))\n#20 /Users/karlhepler/projects/indi15001/Source/app/Console/Commands/ImportDealersFromCSV.php(85): Illuminate\\Support\\Facades\\Facade::__callStatic('transaction', Array)\n#21 /Users/karlhepler/projects/indi15001/Source/app/Console/Commands/ImportDealersFromCSV.php(85): Illuminate\\Support\\Facades\\DB::transaction(Object(Closure))\n#22 /Users/karlhepler/projects/indi15001/Source/app/Brandmovers/CsvReader.php(57): App\\Console\\Commands\\ImportDealersFromCSV->App\\Console\\Commands\\{closure}(Array)\n#23 /Users/karlhepler/projects/indi15001/Source/app/Console/Commands/ImportDealersFromCSV.php(86): App\\Brandmovers\\CsvReader->eachRow(Object(Closure))\n#24 [internal function]: App\\Console\\Commands\\ImportDealersFromCSV->handle()\n#25 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Container/Container.php(503): call_user_func_array(Array, Array)\n#26 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Console/Command.php(150): Illuminate\\Container\\Container->call(Array)\n#27 /Users/karlhepler/projects/indi15001/Source/vendor/symfony/console/Command/Command.php(259): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))\n#28 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Console/Command.php(136): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))\n#29 /Users/karlhepler/projects/indi15001/Source/vendor/symfony/console/Application.php(878): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))\n#30 /Users/karlhepler/projects/indi15001/Source/vendor/symfony/console/Application.php(195): Symfony\\Component\\Console\\Application->doRunCommand(Object(App\\Console\\Commands\\ImportDealersFromCSV), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))\n#31 /Users/karlhepler/projects/indi15001/Source/vendor/symfony/console/Application.php(126): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))\n#32 /Users/karlhepler/projects/indi15001/Source/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(100): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))\n#33 /Users/karlhepler/projects/indi15001/Source/artisan(36): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))\n#34 {main}  \n",
+					"protected static methods",
+					"possibilities",
+					"Deal",
+					"normalizeDealershipName",
+					"splice",
+					"&#174;",
+					"#174;",
+					"billingCopySrc",
+					"billingcopysrc",
+					"billingCopySrc",
+					"billingcopysrc",
+					"use profile address",
+					"officerAdded",
+					"isset($member)",
+					"$member",
+					"return ",
+					"user",
+					"created",
+					"signup_type",
+					"super_user_id",
+					"email",
+					"child_type",
+					"registrar",
+					"super_id",
+					"setUser",
+					"child_type",
+					"unique_or_officer",
+					"child_type",
+					"membershipTypeId",
+					"{{",
+					"@todo",
+					"address_1",
+					"child_user",
+					"ChildUser",
+					"memberRegistered",
+					"->child(?!\\w)",
+					"->child(?!r)",
+					"->child(?!=r)",
+					"->child",
+					"$user->child",
+					"$user->",
+					"child",
+					"super_users",
+					"SuperUser",
+					"Brandmovers\\SuperUsers\\SuperUser",
+					"\"Brandmovers\\SuperUsers\\SuperUser\"",
+					"Brandmovers\\SuperUsers\\SuperUser",
+					"polaris",
+					"Brandmovers\\SuperUsers\\SuperUser",
+					"Brandmovers\\\\SuperUsers\\\\SuperUser",
+					"Brandmovers\\SuperUsers\\SuperUser",
+					"SuperUser",
+					"This member belongs to another dealership",
+					",\\s*\"child_id\":.*(?=})",
+					",\\s*\"child_id\":.*(?:})",
+					",\\s*\"child_id\":.*}",
+					"SuperUser",
+					"super_user",
+					"super_users",
+					"super_user",
+					"super_users",
+					"ChildUser",
+					"super",
+					"[\"{\",",
+					"polaris",
+					"travel_to_pane",
+					"next_",
+					"getPosts()",
+					"drop",
+					"schema::drop",
+					"{\"",
+					",source.js",
+					"\"p\", ",
+					"40",
+					"is_registered",
+					"created_at",
+					"reated_a",
+					"underline",
+					"caret",
+					"7",
+					"\",\", ",
+					"\"p\", ",
+					"p",
+					"super+1",
+					"bold",
+					"minimap",
+					"numbers",
+					"vintag"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"$1 \"created_at\": \"now()\", \"updated_at\": \"now()\",",
+					"®",
+					"users",
+					"User",
+					"App\\User",
+					"poop",
+					"App\\User",
+					"App\\\\User",
+					"",
+					" App",
+					" App\\User",
+					" App\\\\User",
+					" App\\User",
+					" ",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/karlhepler/TODOS.todo",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 153761,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										152869,
+										152869
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PlainTasks/PlainTasks.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 172804.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 45.0
+			},
+			"input":
+			{
+				"height": 48.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 200.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/builds/psr2.sublime-build",
+			"position": "0 359 162 1270 865 0 0 1680 1050 ",
+			"project": "",
+			"replace":
+			{
+				"height": 86.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"membercsv",
+						"storage/app/imports/active_members.csv"
+					],
+					[
+						"misc",
+						"app/Listeners/Misc.php"
+					],
+					[
+						"member.php",
+						"app/Models/Member/Member.php"
+					],
+					[
+						"statesjson",
+						"database/data/states.json"
+					],
+					[
+						"membershiptype",
+						"app/Models/Member/MembershipType.php"
+					],
+					[
+						"project",
+						"config/brandmovers/project.json"
+					],
+					[
+						"activemembercsv",
+						"storage/app/imports/active_members.csv"
+					],
+					[
+						"importmember",
+						"app/Console/Commands/ImportActiveMembersFromCsv.php"
+					],
+					[
+						"larave",
+						"storage/logs/laravel.log"
+					],
+					[
+						"membership.php",
+						"app/Models/Member/Membership.php"
+					],
+					[
+						"member",
+						"app/Models/Member/Member.php"
+					],
+					[
+						"csvread",
+						"app/Brandmovers/CsvReader.php"
+					],
+					[
+						"console/ker",
+						"app/Console/Kernel.php"
+					],
+					[
+						"lara",
+						"storage/logs/laravel.log"
+					],
+					[
+						"console/dealer",
+						"app/Console/Commands/ImportDealersFromCSV.php"
+					],
+					[
+						"project.json",
+						"config/brandmovers/project.json"
+					],
+					[
+						"dealerscsv",
+						"storage/app/imports/dealers.csv"
+					],
+					[
+						"address.php",
+						"app/Models/Address/Address.php"
+					],
+					[
+						"chapter.ph",
+						"app/Models/Chapter.php"
+					],
+					[
+						"admin.php",
+						"app/Models/Admin.php"
+					],
+					[
+						"canbeoffic",
+						"app/Traits/CanBeOfficer.php"
+					],
+					[
+						"laravel",
+						"storage/logs/laravel.log"
+					],
+					[
+						"dealer.php",
+						"app/Models/Dealer/Dealer.php"
+					],
+					[
+						"dealershipcontroll",
+						"app/Http/Controllers/API/DealershipsController.php"
+					],
+					[
+						"dealercontroller",
+						"app/Http/Controllers/DealersController.php"
+					],
+					[
+						"dealership.php",
+						"app/Models/Dealer/Dealership.php"
+					],
+					[
+						"address",
+						"app/Models/Address/Address.php"
+					],
+					[
+						"eloquentcolle",
+						"vendor/laravel/framework/src/Illuminate/Database/Eloquent/Collection.php"
+					],
+					[
+						"eloquent/builder",
+						"vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php"
+					],
+					[
+						"registrationbladephp",
+						"resources/views/registration/partial/account_setup/step1.blade.php"
+					],
+					[
+						"registrationjs",
+						"resources/assets/js/app/registration/controllers/registrationController.js"
+					],
+					[
+						"payment",
+						"resources/views/member_dashboard/partial/fieldsets/payment_fields.blade.php"
+					],
+					[
+						"registjs",
+						"resources/assets/js/app/registration/controllers/registrationController.js"
+					],
+					[
+						"partialspay",
+						"resources/views/member_dashboard/partial/fieldsets/payment_fields.blade.php"
+					],
+					[
+						"memberaddedtochapter",
+						"app/Events/MemberAddedToChapter.php"
+					],
+					[
+						"officer.php",
+						"app/Models/Officer.php"
+					],
+					[
+						"misc.php",
+						"app/Listeners/Misc.php"
+					],
+					[
+						"chapter.php",
+						"app/Models/Chapter.php"
+					],
+					[
+						"mailer.php",
+						"app/Brandmovers/Project/Mailer.php"
+					],
+					[
+						"delayedme",
+						"app/Models/DelayedEmail.php"
+					],
+					[
+						"email/footer.blade",
+						"resources/views/emails/partials/footer.blade.php"
+					],
+					[
+						"delayedemailte",
+						"tests/DelayedEmailTest.php"
+					],
+					[
+						"controll",
+						"app/Http/Controllers/Controller.php"
+					],
+					[
+						"master.blad",
+						"resources/views/layouts/master.blade.php"
+					],
+					[
+						"membercontro",
+						"app/Http/Controllers/API/MembersController.php"
+					],
+					[
+						"additionalmem",
+						"tests/AdditionalMemberTypesTest.php"
+					],
+					[
+						"createmembershiptab",
+						"database/migrations/2015_08_10_195817_create_memberships_table.php"
+					],
+					[
+						"hasposto",
+						"app/Traits/HasPostAuthor.php"
+					],
+					[
+						"officerscontroll",
+						"app/Http/Controllers/API/OfficersController.php"
+					],
+					[
+						"hasuser",
+						"app/Traits/HasUser.php"
+					],
+					[
+						"officersave",
+						"resources/assets/templates/admin/officer-save.html"
+					],
+					[
+						"eloquentbuilder",
+						"vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php"
+					],
+					[
+						"model.php",
+						"vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php"
+					],
+					[
+						"memberscontroller",
+						"app/Http/Controllers/API/MembersController.php"
+					],
+					[
+						"routes.php",
+						"app/Http/routes.php"
+					],
+					[
+						"memberscontroller.php",
+						"app/Http/Controllers/API/MembersController.php"
+					],
+					[
+						"layoutmaster",
+						"resources/views/layouts/master.blade.php"
+					],
+					[
+						"navblad",
+						"resources/views/member_dashboard/partial/profile_nav.blade.php"
+					],
+					[
+						"validator",
+						"app/Brandmovers/Project/Validator.php"
+					],
+					[
+						"updatememberreq",
+						"app/Http/Requests/UpdateMemberRequest.php"
+					],
+					[
+						"createmem",
+						"app/Http/Requests/CreateMemberRequest.php"
+					],
+					[
+						"paymentfie",
+						"resources/views/member_dashboard/partial/fieldsets/payment_fields.blade.php"
+					],
+					[
+						"registrationcontroller",
+						"resources/assets/js/app/registration/controllers/registrationController.js"
+					],
+					[
+						"jiratest",
+						"tests/JiraTest.php"
+					],
+					[
+						"dealershipmember",
+						"app/Http/Controllers/API/DealershipMembersController.php"
+					],
+					[
+						"memberdashindex",
+						"resources/views/member_dashboard/index.blade.php"
+					],
+					[
+						"motorcyclefield",
+						"resources/views/registration/partial/add_your_motorcycle/motorcycle_fields.blade.php"
+					],
+					[
+						"addyour",
+						"resources/views/registration/add_your_motorcycle.blade.php"
+					],
+					[
+						"ugcupl",
+						"app/Models/UGC_Upload.php"
+					],
+					[
+						"memberregistered",
+						"app/Events/MemberRegistered.php"
+					],
+					[
+						"step2compl",
+						"app/Http/Middleware/RegistrationStep2Complete.php"
+					],
+					[
+						"member_dashbard/index",
+						"resources/views/member_dashboard/index.blade.php"
+					],
+					[
+						"memberdashboardcon",
+						"app/Http/Controllers/MemberDashboardController.php"
+					],
+					[
+						"adminscontroller",
+						"app/Http/Controllers/AdminsController.php"
+					],
+					[
+						"controller",
+						"app/Http/Controllers/Controller.php"
+					],
+					[
+						"registrationcon",
+						"app/Http/Controllers/RegistrationController.php"
+					],
+					[
+						"config/auth",
+						"Source/config/auth.php"
+					],
+					[
+						"polaris",
+						"Source/vendor/brandmovers/polaris-api-client/src/Brandmovers/PolarisAPI/PolarisAPIServiceProvider.php"
+					],
+					[
+						"validation",
+						"Source/resources/lang/en/validation.php"
+					],
+					[
+						"superuser",
+						"Source/vendor/brandmovers/super-users/src/Brandmovers/SuperUsers/SuperUser.php"
+					],
+					[
+						"app/user",
+						"Source/app/User.php"
+					],
+					[
+						"additiona",
+						"Source/tests/AdditionalMemberTypesTest.php"
+					],
+					[
+						"dea",
+						"Source/app/Models/Dealer/Dealer.php"
+					],
+					[
+						"collection.php",
+						"Source/vendor/laravel/framework/src/Illuminate/Support/Collection.php"
+					],
+					[
+						"contracts/proxy",
+						"Source/vendor/brandmovers/super-users/src/Brandmovers/SuperUsers/Contracts/Proxy.php"
+					],
+					[
+						"canpro",
+						"Source/vendor/brandmovers/super-users/src/Brandmovers/SuperUsers/Traits/CanProxy.php"
+					],
+					[
+						"officer",
+						"Source/app/Models/Officer.php"
+					],
+					[
+						"superuserpro",
+						"Source/vendor/brandmovers/super-users/src/Brandmovers/SuperUsers/SuperUsersServiceProvider.php"
+					],
+					[
+						"superuser.php",
+						"Source/vendor/brandmovers/super-users/src/Brandmovers/SuperUsers/SuperUser.php"
+					],
+					[
+						"userprovider",
+						"Source/app/Providers/UserProvider.php"
+					],
+					[
+						"config/app",
+						"Source/config/app.php"
+					],
+					[
+						"createsuperuser",
+						"Source/database/migrations/2014_10_15_123959_create_super_users_table_and_rels.php"
+					],
+					[
+						"createsuer",
+						"Source/vendor/brandmovers/super-users/src/Brandmovers/SuperUsers/migrations/create_super_users_table_and_rels.stub"
+					],
+					[
+						"config/pol",
+						"Source/vendor/brandmovers/polaris-api-client/src/Brandmovers/PolarisAPI/config/polaris.php"
+					],
+					[
+						"createuserstable",
+						"Source/database/migrations/2016_03_31_162105_create_users_table.php"
+					],
+					[
+						"",
+						".gitignore"
+					],
+					[
+						"user.php",
+						"Source/app/User.php"
+					],
+					[
+						"super",
+						"Source/vendor/brandmovers/super-users/src/Brandmovers/SuperUsers/SuperUser.php"
+					],
+					[
+						"ryanpunchlistemail_10_5_2015test",
+						"Source/tests/RyanPunchListEmail_10_5_2015Test.php"
+					],
+					[
+						"membertest",
+						"Source/tests/MemberTest.php"
+					],
+					[
+						"forum.php",
+						"Source/app/Models/Forum/Forum.php"
+					],
+					[
+						"forumtest",
+						"Source/tests/ForumTest.php"
+					],
+					[
+						"foundation/testing/data",
+						"Source/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseMigrations.php"
+					],
+					[
+						"createdelayedemails",
+						"Source/database/migrations/2016_03_31_145949_create_delayed_emails_table.php"
+					],
+					[
+						"createdelayed",
+						"Source/database/migrations/2016_03_29_134858_CreateDelayedEmailsTable.php"
+					],
+					[
+						"delayeemailtest",
+						"Source/tests/DelayedEmailTest.php"
+					],
+					[
+						"dealeremailtest",
+						"Source/tests/DealerEmailTest.php"
+					],
+					[
+						"auth",
+						"Source/config/auth.php"
 					],
 					[
 						"project/mailer",
@@ -713,11 +3555,6 @@
 			"selected_group": 0,
 			"settings":
 			{
-				"_vintageous_reset_during_init": true,
-				"vintage":
-				{
-					"_cmdline_cd": "/Users/karlhepler/Library/Application Support/Sublime Text 3/Packages"
-				}
 			},
 			"show_minimap": false,
 			"show_open_files": false,
@@ -728,7 +3565,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 4,
+			"window_id": 46,
 			"workspace_name": ""
 		}
 	],

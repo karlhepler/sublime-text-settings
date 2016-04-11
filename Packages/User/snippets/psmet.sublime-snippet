@@ -1,7 +1,6 @@
 <snippet>
     <content><![CDATA[
-/**${3}
-static protected function ${1}(${2})
+protected static function ${1}(${2})
 {
     ${0}
 }

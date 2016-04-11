@@ -2,7 +2,6 @@
 	{
 		"args":
 		{
-			"register": "\"",
 			"to": "hardeol"
 		},
 		"command": "move_to"
@@ -10,15 +9,11 @@
 	{
 		"args":
 		{
-			"characters": " =>"
+			"characters": " => "
 		},
 		"command": "insert"
 	},
 	{
-		"args":
-		{
-			"characters": " "
-		},
-		"command": "insert"
+		"command": "enter_insert_mode"
 	}
 ]

@@ -1,0 +1,8 @@
+{
+	"open_tasks_bullet": "[ ]",
+	"done_tasks_bullet": "[x]",
+	"cancelled_tasks_bullet": "[-]",
+	"gutter": false,
+	"word_wrap": true,
+	"decimal_minutes": true
+}

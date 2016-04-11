@@ -1,6 +1,5 @@
 <snippet>
     <content><![CDATA[
-/**${3}
 protected function ${1}(${2})
 {
     ${0}

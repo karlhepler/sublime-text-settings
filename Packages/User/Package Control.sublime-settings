@@ -8,6 +8,7 @@
 		"AdvancedNewFile",
 		"AlignTab",
 		"All Autocomplete",
+		"AppendSemiColon",
 		"Color Highlighter",
 		"DocBlockr",
 		"Emmet",
@@ -15,6 +16,7 @@
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
 		"Laravel Blade Highlighter",
+		"Origami",
 		"Package Control",
 		"PHP Companion",
 		"PlainTasks",
@@ -24,6 +26,7 @@
 		"SublimeLinter-php",
 		"SublimeREPL",
 		"Surround",
+		"Text Pastry",
 		"Theme - Spacegray",
 		"Vintage Surround"
 	]
