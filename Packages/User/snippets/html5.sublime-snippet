@@ -1,0 +1,46 @@
+<snippet>
+    <content><![CDATA[
+<!doctype html>
+<html class="no-js" lang="" ng-app="" ng-strict-di>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="HandheldFriendly" content="true">
+    <meta http-equiv="X-Frame-Options" content="deny">
+    <meta name="robots" content="noindex, nofollow">
+
+    <!-- TITLE & DESCRIPTION -->
+    <title></title>
+    <meta name="description" content="">
+
+    <!-- FACEBOOK -->
+    <meta property="og:url" content="">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="">
+
+    <!-- FAVICONS: http://realfavicongenerator.net -->
+    <!-- WEBFONTS: https://www.fontsquirrel.com/tools/webfont-generator -->
+    <!-- <link rel="stylesheet" href="/app.css"> -->
+</head>
+<body ng-controller="">
+<!--[if lt IE 8]>
+<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+
+<header></header>
+<main>${0}</main>
+<footer></footer>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+<!-- <script src="/app.js"></script> -->
+</body>
+</html>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>html5</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.blade,source.html</scope>
+</snippet>

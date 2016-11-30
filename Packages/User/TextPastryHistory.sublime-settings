@@ -40,15 +40,62 @@
 			},
 			"key": "8bbd9ffa0ea45244c860983ec885a934",
 			"label": "11 x9999"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "container"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter container"
+			},
+			"key": "14f98dc8bd90def2690f946e171858f4",
+			"label": "filter container"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "bcc("
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter bcc("
+			},
+			"key": "2f00b94740ac9679af1115260a363a6c",
+			"label": "filter bcc("
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "error"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter error"
+			},
+			"key": "f5f446dd9c90e2dfb12235df9ae0d9ff",
+			"label": "filter error"
 		}
 	],
 	"last_command":
 	{
 		"args":
 		{
-			"text": "11 x9999"
+			"context": "selection",
+			"operator": null,
+			"pattern": "error"
 		},
-		"command": "text_pastry_step",
-		"text": "11 x9999"
+		"command": "text_pastry_modify_selection",
+		"text": "filter error"
 	}
 }

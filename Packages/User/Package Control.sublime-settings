@@ -15,19 +15,26 @@
 		"Git",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
+		"InsertDate",
 		"Laravel Blade Highlighter",
+		"MacDown App Menu",
 		"Origami",
 		"Package Control",
 		"PHP Companion",
 		"PlainTasks",
+		"ReIndent",
 		"Sass",
 		"SublimeLinter",
+		"SublimeLinter-annotations",
 		"SublimeLinter-jshint",
 		"SublimeLinter-php",
 		"SublimeREPL",
 		"Surround",
 		"Text Pastry",
 		"Theme - Spacegray",
-		"Vintage Surround"
+		"TodoReview",
+		"TypeScript",
+		"Vintage Surround",
+		"Vuejs Complete Package"
 	]
 }

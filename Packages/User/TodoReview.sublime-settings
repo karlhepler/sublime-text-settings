@@ -1,0 +1,5 @@
+{
+    "patterns": {
+        "@todo(kjh)": "@todo\\(kjh\\)\\s*:\\s*(?P<todo>.*)$"
+    },
+}

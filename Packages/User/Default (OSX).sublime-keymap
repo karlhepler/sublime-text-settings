@@ -30,5 +30,8 @@
     { "keys": ["ctrl+o"], "command": "jump_back" },
     { "keys": ["ctrl+i"], "command": "jump_forward" },
     { "keys": ["super+alt+p"], "command": "text_pastry_show_command_line", "args": { "text": "" } },
-    { "keys": ["super+alt+n"], "command": "advanced_new_file_new"}
+    { "keys": ["super+alt+n"], "command": "advanced_new_file_new"},
+    { "keys": ["shift+super+r"], "command": "refresh_folder_list" },
+    { "keys": [",", "d"], "command": "insert_date" },
+    { "keys": [",", "t"], "command": "insert_snippet", "args": { "name": "Packages/User/snippets/todo_comment.sublime-snippet" } }
 ]

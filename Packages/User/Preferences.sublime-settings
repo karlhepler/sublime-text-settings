@@ -1,8 +1,27 @@
 {
+	"binary_file_patterns":
+	[
+		"node_modules/",
+		"bower_components/",
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip"
+	],
 	"bold_folder_labels": true,
 	"caret_extra_width": 2,
 	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
 	"enable_tab_scrolling": false,
+	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Source Code Pro",
 	"font_size": 16,
 	"hide_minimap": true,
@@ -10,10 +29,17 @@
 	"ignored_packages":
 	[
 	],
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"node_modules",
+		"bower_components"
+	],
 	"line_numbers": false,
 	"line_padding_bottom": 8,
 	"line_padding_top": 8,
 	"show_panel_on_build": false,
+	"tab_size": 4,
 	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"use_simple_full_screen": true,

@@ -1,3 +1,3 @@
 {
-    "jsdocs_spacer_between_sections": "after_description"
+    "jsdocs_spacer_between_sections": true
 }
